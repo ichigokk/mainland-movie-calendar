@@ -5,6 +5,7 @@ import time
 import httpx
 
 DOUBAN_COMING_URL = "https://movie.douban.com/coming"
+DOUBAN_READER_URL = "https://r.jina.ai/http://movie.douban.com/coming"
 
 HEADERS = {
     "Accept": "text/html,application/xhtml+xml",
@@ -21,23 +22,33 @@ HEADERS = {
 def fetch_upcoming_html(
     url: str = DOUBAN_COMING_URL,
     *,
-    attempts: int = 3,
+    attempts: int = 2,
     timeout_seconds: float = 20,
+    transport: httpx.BaseTransport | None = None,
 ) -> str:
-    """Fetch the mainland-China upcoming-release page with bounded retries."""
+    """Fetch upcoming releases, falling back to an HTML-preserving reader."""
     last_error: Exception | None = None
+    sources = [(url, {})]
+    if url == DOUBAN_COMING_URL:
+        sources.append((DOUBAN_READER_URL, {"X-Return-Format": "html"}))
 
-    with httpx.Client(headers=HEADERS, follow_redirects=True, timeout=timeout_seconds) as client:
-        for attempt in range(attempts):
-            try:
-                response = client.get(url)
-                response.raise_for_status()
-                if "coming_list" not in response.text:
-                    raise ValueError("response does not contain the upcoming-movie table")
-                return response.text
-            except (httpx.HTTPError, ValueError) as exc:
-                last_error = exc
-                if attempt + 1 < attempts:
-                    time.sleep(2**attempt)
+    with httpx.Client(
+        headers=HEADERS,
+        follow_redirects=True,
+        timeout=timeout_seconds,
+        transport=transport,
+    ) as client:
+        for source_url, extra_headers in sources:
+            for attempt in range(attempts):
+                try:
+                    response = client.get(source_url, headers=extra_headers)
+                    response.raise_for_status()
+                    if "coming_list" not in response.text:
+                        raise ValueError("response does not contain the upcoming-movie table")
+                    return response.text
+                except (httpx.HTTPError, ValueError) as exc:
+                    last_error = exc
+                    if attempt + 1 < attempts:
+                        time.sleep(2**attempt)
 
-    raise RuntimeError(f"could not fetch upcoming movies after {attempts} attempts") from last_error
+    raise RuntimeError("could not fetch upcoming movies from any source") from last_error

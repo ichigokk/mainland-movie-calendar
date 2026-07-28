@@ -8,6 +8,9 @@
 
 该页面直接按中国大陆上映日期列出国产片与进口片，当前能同时识别《蜘蛛侠：崭新之日》和《奥德赛》。抓取实现被隔离在 `fetch.py` 与 `parser.py`，后续可增加猫眼或官方来源适配器。
 
+GitHub Actions 机房 IP 可能被来源页拒绝。直连失败时通过 Jina Reader 的 HTML
+模式读取同一页面；来源 ID、字段结构与合并语义保持不变。
+
 ## 3. 来源 ID 决定 UID
 
 ICS UID 使用 `douban-{subject_id}@mainland-movie-calendar`。改名或改档不会改变 UID，因此订阅客户端会更新原事件。
