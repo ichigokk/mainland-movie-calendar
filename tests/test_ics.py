@@ -21,7 +21,8 @@ def test_calendar_has_stable_uid_all_day_dates_and_valid_line_folding() -> None:
     )
     unfolded = content.replace("\r\n ", "")
 
-    assert "UID:douban-36246195@mainland-movie-calendar" in unfolded
+    assert "UID:douban-36246195@mainland-movie-calendar.ichigokk.github.io" in unfolded
+    assert "X-WR-RELCALID:mainland-movie-calendar.ichigokk.github.io" in unfolded
     assert "DTSTART;VALUE=DATE:20260729" in unfolded
     assert "DTEND;VALUE=DATE:20260730" in unfolded
     assert "SUMMARY:🎬《蜘蛛侠：崭新之日》上映" in unfolded

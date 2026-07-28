@@ -50,7 +50,7 @@ def _event_lines(movie: dict[str, Any], *, generated_at: datetime) -> list[str]:
 
     return [
         "BEGIN:VEVENT",
-        f"UID:douban-{movie['source_id']}@mainland-movie-calendar",
+        f"UID:douban-{movie['source_id']}@mainland-movie-calendar.ichigokk.github.io",
         f"DTSTAMP:{generated_at.astimezone(UTC).strftime('%Y%m%dT%H%M%SZ')}",
         f"LAST-MODIFIED:{generated_at.astimezone(UTC).strftime('%Y%m%dT%H%M%SZ')}",
         f"DTSTART;VALUE=DATE:{release.strftime('%Y%m%d')}",
@@ -91,6 +91,7 @@ def render_calendar(
         "METHOD:PUBLISH",
         "X-WR-CALNAME:中国大陆院线上映",
         "X-WR-CALDESC:中国大陆院线定档日历（国产片与进口片）",
+        "X-WR-RELCALID:mainland-movie-calendar.ichigokk.github.io",
         "REFRESH-INTERVAL;VALUE=DURATION:P1D",
         "X-PUBLISHED-TTL:P1D",
     ]

@@ -13,7 +13,9 @@ GitHub Actions 机房 IP 可能被来源页拒绝。直连失败时通过 Jina R
 
 ## 3. 来源 ID 决定 UID
 
-ICS UID 使用 `douban-{subject_id}@mainland-movie-calendar`。改名或改档不会改变 UID，因此订阅客户端会更新原事件。
+ICS UID 使用
+`douban-{subject_id}@mainland-movie-calendar.ichigokk.github.io`。改名或改档不会
+改变 UID，因此订阅客户端会更新原事件；仓库专属域名也避免与用户已有日历冲突。
 
 ## 4. 不在首次缺失时删除或撤档
 
