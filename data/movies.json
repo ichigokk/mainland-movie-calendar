@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T04:31:10.115619+00:00",
+  "generated_at": "2026-07-30T04:20:45.115500+00:00",
   "movies": [
     {
       "countries": [
@@ -11,15 +11,25 @@
         "科幻",
         "奇幻"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-07-30T04:20:45.115500+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-07-28",
       "missing_runs": 1,
       "release_date": "2026-07-29",
       "source_id": "36246195",
       "source_url": "https://movie.douban.com/subject/36246195/",
-      "status": "active",
+      "status": "released",
       "title": "蜘蛛侠：崭新之日",
-      "updated_at": "2026-07-28T12:40:34.898177+00:00"
+      "updated_at": "2026-07-30T04:20:45.115500+00:00"
     },
     {
       "countries": [
@@ -288,7 +298,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-21",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
