@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T04:20:45.115500+00:00",
+  "generated_at": "2026-07-31T04:39:19.188195+00:00",
   "movies": [
     {
       "countries": [
@@ -298,7 +298,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "release_date": "2026-08-21",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
