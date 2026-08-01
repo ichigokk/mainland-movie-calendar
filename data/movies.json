@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T04:39:19.188195+00:00",
+  "generated_at": "2026-08-01T04:34:55.329491+00:00",
   "movies": [
     {
       "countries": [
@@ -41,7 +41,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-01",
       "source_id": "36850814",
       "source_url": "https://movie.douban.com/subject/36850814/",
@@ -51,22 +51,22 @@
     },
     {
       "countries": [
-        "美国"
+        "中国大陆"
       ],
-      "first_seen_at": "2026-07-28",
+      "first_seen_at": "2026-08-01",
       "genres": [
-        "动作",
-        "犯罪"
+        "剧情",
+        "家庭"
       ],
       "history": [],
-      "last_seen_at": "2026-07-28",
+      "last_seen_at": "2026-08-01",
       "missing_runs": 0,
       "release_date": "2026-08-07",
-      "source_id": "10756537",
-      "source_url": "https://movie.douban.com/subject/10756537/",
+      "source_id": "35201478",
+      "source_url": "https://movie.douban.com/subject/35201478/",
       "status": "active",
-      "title": "杀死比尔：血色全传",
-      "updated_at": "2026-07-28T12:40:34.898177+00:00"
+      "title": "冬旅人",
+      "updated_at": "2026-08-01T04:34:55.329491+00:00"
     },
     {
       "countries": [
@@ -296,15 +296,25 @@
       "genres": [
         "剧情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-01T04:34:55.329491+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "withdrawn"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 2,
+      "missing_runs": 3,
       "release_date": "2026-08-21",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
-      "status": "active",
+      "status": "withdrawn",
       "title": "手捧繁星",
-      "updated_at": "2026-07-28T12:40:34.898177+00:00"
+      "updated_at": "2026-08-01T04:34:55.329491+00:00"
     },
     {
       "countries": [
@@ -324,6 +334,35 @@
       "status": "active",
       "title": "密档",
       "updated_at": "2026-07-28T12:40:34.898177+00:00"
+    },
+    {
+      "countries": [
+        "美国"
+      ],
+      "first_seen_at": "2026-07-28",
+      "genres": [
+        "动作",
+        "犯罪"
+      ],
+      "history": [
+        {
+          "at": "2026-08-01T04:34:55.329491+00:00",
+          "changes": {
+            "release_date": {
+              "from": "2026-08-07",
+              "to": "2026-09-04"
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-08-01",
+      "missing_runs": 0,
+      "release_date": "2026-09-04",
+      "source_id": "10756537",
+      "source_url": "https://movie.douban.com/subject/10756537/",
+      "status": "active",
+      "title": "杀死比尔：血色全传",
+      "updated_at": "2026-08-01T04:34:55.329491+00:00"
     },
     {
       "countries": [
