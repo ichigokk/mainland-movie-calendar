@@ -32,6 +32,7 @@ dev = [
 
 [project.scripts]
 mainland-movie-calendar = "mainland_movie_calendar.cli:main"
+mainland-movie-calendar-serve = "mainland_movie_calendar.server:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]

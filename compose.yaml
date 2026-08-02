@@ -1,0 +1,24 @@
+services:
+  movie-calendar:
+    image: ghcr.io/ichigokk/mainland-movie-calendar:latest
+    container_name: mainland-movie-calendar
+    restart: unless-stopped
+    init: true
+    ports:
+      - "${HOST_PORT:-8000}:8000"
+    environment:
+      PUBLIC_BASE_URL: "${PUBLIC_BASE_URL:-http://localhost:8000}"
+      TZ: "${TZ:-Asia/Shanghai}"
+      UPDATE_INTERVAL_SECONDS: "${UPDATE_INTERVAL_SECONDS:-21600}"
+      RETRY_INTERVAL_SECONDS: "${RETRY_INTERVAL_SECONDS:-900}"
+      LOG_LEVEL: "${LOG_LEVEL:-INFO}"
+    volumes:
+      - movie-calendar-data:/data
+    read_only: true
+    tmpfs:
+      - /tmp:size=32m
+    security_opt:
+      - no-new-privileges:true
+
+volumes:
+  movie-calendar-data:

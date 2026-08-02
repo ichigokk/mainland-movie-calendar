@@ -25,3 +25,13 @@ def test_index_contains_subscription_link_and_escapes_titles() -> None:
     assert "webcal://ichigokk.github.io/mainland-movie-calendar/calendar.ics" in content
     assert "&lt;测试电影&gt;" in content
     assert "<测试电影>" not in content
+
+
+def test_index_converts_http_subscription_to_webcal() -> None:
+    content = render_index(
+        {"generated_at": None, "movies": []},
+        today=date(2026, 8, 2),
+        public_base_url="http://192.168.1.10:8000",
+    )
+
+    assert "webcal://192.168.1.10:8000/calendar.ics" in content

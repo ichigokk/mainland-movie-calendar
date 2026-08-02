@@ -13,7 +13,10 @@ def render_index(
     public_base_url: str,
 ) -> str:
     calendar_url = f"{public_base_url.rstrip('/')}/calendar.ics"
-    webcal_url = calendar_url.replace("https://", "webcal://", 1)
+    if calendar_url.startswith(("http://", "https://")):
+        webcal_url = f"webcal://{calendar_url.split('://', 1)[1]}"
+    else:
+        webcal_url = calendar_url
     movies = [
         movie
         for movie in state.get("movies", [])
