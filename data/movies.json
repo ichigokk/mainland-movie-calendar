@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T04:34:55.329491+00:00",
+  "generated_at": "2026-08-02T04:37:21.440408+00:00",
   "movies": [
     {
       "countries": [
@@ -39,15 +39,25 @@
       "genres": [
         "喜剧"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-02T04:37:21.440408+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-07-28",
       "missing_runs": 1,
       "release_date": "2026-08-01",
       "source_id": "36850814",
       "source_url": "https://movie.douban.com/subject/36850814/",
-      "status": "active",
+      "status": "released",
       "title": "年会不能停2！",
-      "updated_at": "2026-07-28T12:40:34.898177+00:00"
+      "updated_at": "2026-08-02T04:37:21.440408+00:00"
     },
     {
       "countries": [
@@ -308,7 +318,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 3,
+      "missing_runs": 4,
       "release_date": "2026-08-21",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
