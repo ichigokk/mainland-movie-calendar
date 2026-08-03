@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:37:21.440408+00:00",
+  "generated_at": "2026-08-03T04:46:59.156367+00:00",
   "movies": [
     {
       "countries": [
@@ -77,6 +77,36 @@
       "status": "active",
       "title": "冬旅人",
       "updated_at": "2026-08-01T04:34:55.329491+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-07-28",
+      "genres": [
+        "爱情",
+        "动画",
+        "奇幻"
+      ],
+      "history": [
+        {
+          "at": "2026-08-03T04:46:59.156367+00:00",
+          "changes": {
+            "release_date": {
+              "from": "2026-08-19",
+              "to": "2026-08-07"
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-08-03",
+      "missing_runs": 0,
+      "release_date": "2026-08-07",
+      "source_id": "35275131",
+      "source_url": "https://movie.douban.com/subject/35275131/",
+      "status": "active",
+      "title": "去你的岛",
+      "updated_at": "2026-08-03T04:46:59.156367+00:00"
     },
     {
       "countries": [
@@ -202,6 +232,25 @@
     },
     {
       "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-08-03",
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-03",
+      "missing_runs": 0,
+      "release_date": "2026-08-19",
+      "source_id": "36779597",
+      "source_url": "https://movie.douban.com/subject/36779597/",
+      "status": "active",
+      "title": "不想失去你",
+      "updated_at": "2026-08-03T04:46:59.156367+00:00"
+    },
+    {
+      "countries": [
         "中国台湾"
       ],
       "first_seen_at": "2026-07-28",
@@ -236,26 +285,6 @@
       "source_url": "https://movie.douban.com/subject/37452950/",
       "status": "active",
       "title": "偷偷藏不住",
-      "updated_at": "2026-07-28T12:40:34.898177+00:00"
-    },
-    {
-      "countries": [
-        "中国大陆"
-      ],
-      "first_seen_at": "2026-07-28",
-      "genres": [
-        "爱情",
-        "动画",
-        "奇幻"
-      ],
-      "history": [],
-      "last_seen_at": "2026-07-28",
-      "missing_runs": 0,
-      "release_date": "2026-08-19",
-      "source_id": "35275131",
-      "source_url": "https://movie.douban.com/subject/35275131/",
-      "status": "active",
-      "title": "去你的岛",
       "updated_at": "2026-07-28T12:40:34.898177+00:00"
     },
     {
@@ -318,7 +347,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 4,
+      "missing_runs": 5,
       "release_date": "2026-08-21",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
