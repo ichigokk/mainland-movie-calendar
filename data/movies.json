@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T04:29:12.694286+00:00",
+  "generated_at": "2026-08-06T04:30:34.877464+00:00",
   "movies": [
     {
       "countries": [
@@ -129,26 +129,6 @@
     },
     {
       "countries": [
-        "中国大陆"
-      ],
-      "first_seen_at": "2026-07-28",
-      "genres": [
-        "喜剧",
-        "动画",
-        "悬疑"
-      ],
-      "history": [],
-      "last_seen_at": "2026-07-28",
-      "missing_runs": 0,
-      "release_date": "2026-08-08",
-      "source_id": "35464353",
-      "source_url": "https://movie.douban.com/subject/35464353/",
-      "status": "active",
-      "title": "大唐妖探",
-      "updated_at": "2026-07-28T12:40:34.898177+00:00"
-    },
-    {
-      "countries": [
         "加拿大",
         "美国"
       ],
@@ -167,6 +147,25 @@
       "status": "active",
       "title": "汪汪队立大功大电影3：勇闯恐龙岛",
       "updated_at": "2026-07-28T12:40:34.898177+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-08-06",
+      "genres": [
+        "剧情",
+        "战争"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-06",
+      "missing_runs": 0,
+      "release_date": "2026-08-11",
+      "source_id": "35811064",
+      "source_url": "https://movie.douban.com/subject/35811064/",
+      "status": "active",
+      "title": "欢迎来龙餐馆",
+      "updated_at": "2026-08-06T04:30:34.877464+00:00"
     },
     {
       "countries": [
@@ -347,13 +346,43 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 6,
+      "missing_runs": 7,
       "release_date": "2026-08-21",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
       "status": "withdrawn",
       "title": "手捧繁星",
       "updated_at": "2026-08-01T04:34:55.329491+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-07-28",
+      "genres": [
+        "喜剧",
+        "动画",
+        "悬疑"
+      ],
+      "history": [
+        {
+          "at": "2026-08-06T04:30:34.877464+00:00",
+          "changes": {
+            "release_date": {
+              "from": "2026-08-08",
+              "to": "2026-08-22"
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-08-06",
+      "missing_runs": 0,
+      "release_date": "2026-08-22",
+      "source_id": "35464353",
+      "source_url": "https://movie.douban.com/subject/35464353/",
+      "status": "active",
+      "title": "大唐妖探",
+      "updated_at": "2026-08-06T04:30:34.877464+00:00"
     },
     {
       "countries": [
