@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T03:08:13.391854+00:00",
+  "generated_at": "2026-08-10T03:18:54.247764+00:00",
   "movies": [
     {
       "countries": [
@@ -194,7 +194,6 @@
       "first_seen_at": "2026-08-06",
       "genres": [
         "剧情",
-        "喜剧",
         "战争"
       ],
       "history": [
@@ -213,16 +212,32 @@
               ]
             }
           }
+        },
+        {
+          "at": "2026-08-10T03:18:54.247764+00:00",
+          "changes": {
+            "genres": {
+              "from": [
+                "剧情",
+                "喜剧",
+                "战争"
+              ],
+              "to": [
+                "剧情",
+                "战争"
+              ]
+            }
+          }
         }
       ],
-      "last_seen_at": "2026-08-07",
+      "last_seen_at": "2026-08-10",
       "missing_runs": 0,
       "release_date": "2026-08-11",
       "source_id": "35811064",
       "source_url": "https://movie.douban.com/subject/35811064/",
       "status": "active",
       "title": "欢迎来龙餐馆",
-      "updated_at": "2026-08-07T04:03:42.460285+00:00"
+      "updated_at": "2026-08-10T03:18:54.247764+00:00"
     },
     {
       "countries": [
@@ -276,15 +291,25 @@
         "奇幻",
         "冒险"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-10T03:18:54.247764+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "withdrawn"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 2,
+      "missing_runs": 3,
       "release_date": "2026-08-15",
       "source_id": "35603727",
       "source_url": "https://movie.douban.com/subject/35603727/",
-      "status": "active",
+      "status": "withdrawn",
       "title": "猫猫的奇幻漂流",
-      "updated_at": "2026-07-28T12:40:34.898177+00:00"
+      "updated_at": "2026-08-10T03:18:54.247764+00:00"
     },
     {
       "countries": [
@@ -442,7 +467,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 10,
+      "missing_runs": 11,
       "release_date": "2026-08-21",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
@@ -498,6 +523,25 @@
       "status": "active",
       "title": "密档",
       "updated_at": "2026-07-28T12:40:34.898177+00:00"
+    },
+    {
+      "countries": [
+        "美国"
+      ],
+      "first_seen_at": "2026-08-10",
+      "genres": [
+        "犯罪",
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-10",
+      "missing_runs": 0,
+      "release_date": "2026-08-28",
+      "source_id": "1292052",
+      "source_url": "https://movie.douban.com/subject/1292052/",
+      "status": "active",
+      "title": "肖申克的救赎",
+      "updated_at": "2026-08-10T03:18:54.247764+00:00"
     },
     {
       "countries": [
