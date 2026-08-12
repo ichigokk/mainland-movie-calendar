@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T03:11:23.780892+00:00",
+  "generated_at": "2026-08-12T03:29:18.120231+00:00",
   "movies": [
     {
       "countries": [
@@ -228,6 +228,15 @@
               ]
             }
           }
+        },
+        {
+          "at": "2026-08-12T03:29:18.120231+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
         }
       ],
       "last_seen_at": "2026-08-10",
@@ -235,9 +244,9 @@
       "release_date": "2026-08-11",
       "source_id": "35811064",
       "source_url": "https://movie.douban.com/subject/35811064/",
-      "status": "active",
+      "status": "released",
       "title": "欢迎来龙餐馆",
-      "updated_at": "2026-08-10T03:18:54.247764+00:00"
+      "updated_at": "2026-08-12T03:29:18.120231+00:00"
     },
     {
       "countries": [
@@ -303,7 +312,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 4,
+      "missing_runs": 5,
       "release_date": "2026-08-15",
       "source_id": "35603727",
       "source_url": "https://movie.douban.com/subject/35603727/",
@@ -379,7 +388,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-19",
       "source_id": "37452950",
       "source_url": "https://movie.douban.com/subject/37452950/",
@@ -467,7 +476,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 12,
+      "missing_runs": 13,
       "release_date": "2026-08-21",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
@@ -590,6 +599,43 @@
       "status": "active",
       "title": "杀死比尔：血色全传",
       "updated_at": "2026-08-01T04:34:55.329491+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-08-12",
+      "genres": [
+        "剧情",
+        "喜剧"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-12",
+      "missing_runs": 0,
+      "release_date": "2026-09-05",
+      "source_id": "36903929",
+      "source_url": "https://movie.douban.com/subject/36903929/",
+      "status": "active",
+      "title": "燃烧吧！爸爸",
+      "updated_at": "2026-08-12T03:29:18.120231+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-08-12",
+      "genres": [
+        "纪录片"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-12",
+      "missing_runs": 0,
+      "release_date": "2026-09-12",
+      "source_id": "37527015",
+      "source_url": "https://movie.douban.com/subject/37527015/",
+      "status": "active",
+      "title": "浪花儿",
+      "updated_at": "2026-08-12T03:29:18.120231+00:00"
     },
     {
       "countries": [
