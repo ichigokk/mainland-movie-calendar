@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T03:29:18.120231+00:00",
+  "generated_at": "2026-08-13T03:32:54.545731+00:00",
   "movies": [
     {
       "countries": [
@@ -312,7 +312,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 5,
+      "missing_runs": 6,
       "release_date": "2026-08-15",
       "source_id": "35603727",
       "source_url": "https://movie.douban.com/subject/35603727/",
@@ -388,13 +388,32 @@
       ],
       "history": [],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "release_date": "2026-08-19",
       "source_id": "37452950",
       "source_url": "https://movie.douban.com/subject/37452950/",
       "status": "active",
       "title": "偷偷藏不住",
       "updated_at": "2026-07-28T12:40:34.898177+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-08-13",
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-13",
+      "missing_runs": 0,
+      "release_date": "2026-08-19",
+      "source_id": "35317825",
+      "source_url": "https://movie.douban.com/subject/35317825/",
+      "status": "active",
+      "title": "喜欢高兴爱",
+      "updated_at": "2026-08-13T03:32:54.545731+00:00"
     },
     {
       "countries": [
@@ -476,7 +495,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 13,
+      "missing_runs": 14,
       "release_date": "2026-08-21",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
