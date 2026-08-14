@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T03:32:54.545731+00:00",
+  "generated_at": "2026-08-14T03:30:09.221994+00:00",
   "movies": [
     {
       "countries": [
@@ -261,7 +261,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-14",
       "source_id": "36808876",
       "source_url": "https://movie.douban.com/subject/36808876/",
@@ -281,7 +281,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-14",
       "source_id": "36318703",
       "source_url": "https://movie.douban.com/subject/36318703/",
@@ -312,7 +312,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 6,
+      "missing_runs": 7,
       "release_date": "2026-08-15",
       "source_id": "35603727",
       "source_url": "https://movie.douban.com/subject/35603727/",
@@ -386,15 +386,25 @@
         "剧情",
         "爱情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-14T03:30:09.221994+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "withdrawn"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 2,
+      "missing_runs": 3,
       "release_date": "2026-08-19",
       "source_id": "37452950",
       "source_url": "https://movie.douban.com/subject/37452950/",
-      "status": "active",
+      "status": "withdrawn",
       "title": "偷偷藏不住",
-      "updated_at": "2026-07-28T12:40:34.898177+00:00"
+      "updated_at": "2026-08-14T03:30:09.221994+00:00"
     },
     {
       "countries": [
@@ -495,7 +505,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 14,
+      "missing_runs": 15,
       "release_date": "2026-08-21",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
