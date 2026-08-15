@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T03:30:09.221994+00:00",
+  "generated_at": "2026-08-15T02:19:04.257773+00:00",
   "movies": [
     {
       "countries": [
@@ -259,15 +259,25 @@
         "历史",
         "奇幻"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-15T02:19:04.257773+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-07-28",
       "missing_runs": 1,
       "release_date": "2026-08-14",
       "source_id": "36808876",
       "source_url": "https://movie.douban.com/subject/36808876/",
-      "status": "active",
+      "status": "released",
       "title": "奥德赛",
-      "updated_at": "2026-07-28T12:40:34.898177+00:00"
+      "updated_at": "2026-08-15T02:19:04.257773+00:00"
     },
     {
       "countries": [
@@ -279,15 +289,25 @@
         "科幻",
         "惊悚"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-15T02:19:04.257773+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-07-28",
       "missing_runs": 1,
       "release_date": "2026-08-14",
       "source_id": "36318703",
       "source_url": "https://movie.douban.com/subject/36318703/",
-      "status": "active",
+      "status": "released",
       "title": "逃出绝命街",
-      "updated_at": "2026-07-28T12:40:34.898177+00:00"
+      "updated_at": "2026-08-15T02:19:04.257773+00:00"
     },
     {
       "countries": [
@@ -312,7 +332,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 7,
+      "missing_runs": 8,
       "release_date": "2026-08-15",
       "source_id": "35603727",
       "source_url": "https://movie.douban.com/subject/35603727/",
@@ -360,25 +380,6 @@
     },
     {
       "countries": [
-        "中国台湾"
-      ],
-      "first_seen_at": "2026-07-28",
-      "genres": [
-        "剧情",
-        "爱情"
-      ],
-      "history": [],
-      "last_seen_at": "2026-07-28",
-      "missing_runs": 0,
-      "release_date": "2026-08-19",
-      "source_id": "36994226",
-      "source_url": "https://movie.douban.com/subject/36994226/",
-      "status": "active",
-      "title": "偷偷喜欢你 夏日最後的秘密",
-      "updated_at": "2026-07-28T12:40:34.898177+00:00"
-    },
-    {
-      "countries": [
         "中国大陆"
       ],
       "first_seen_at": "2026-07-28",
@@ -398,7 +399,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 3,
+      "missing_runs": 4,
       "release_date": "2026-08-19",
       "source_id": "37452950",
       "source_url": "https://movie.douban.com/subject/37452950/",
@@ -436,7 +437,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-19",
       "source_id": "35390242",
       "source_url": "https://movie.douban.com/subject/35390242/",
@@ -463,6 +464,26 @@
       "status": "active",
       "title": "机器人总动员",
       "updated_at": "2026-08-07T04:03:42.460285+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆",
+        "中国香港"
+      ],
+      "first_seen_at": "2026-08-15",
+      "genres": [
+        "剧情",
+        "犯罪"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-15",
+      "missing_runs": 0,
+      "release_date": "2026-08-19",
+      "source_id": "37508847",
+      "source_url": "https://movie.douban.com/subject/37508847/",
+      "status": "active",
+      "title": "空枪",
+      "updated_at": "2026-08-15T02:19:04.257773+00:00"
     },
     {
       "countries": [
@@ -505,7 +526,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 15,
+      "missing_runs": 16,
       "release_date": "2026-08-21",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
@@ -647,6 +668,35 @@
       "status": "active",
       "title": "燃烧吧！爸爸",
       "updated_at": "2026-08-12T03:29:18.120231+00:00"
+    },
+    {
+      "countries": [
+        "中国台湾"
+      ],
+      "first_seen_at": "2026-07-28",
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "history": [
+        {
+          "at": "2026-08-15T02:19:04.257773+00:00",
+          "changes": {
+            "release_date": {
+              "from": "2026-08-19",
+              "to": "2026-09-12"
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-08-15",
+      "missing_runs": 0,
+      "release_date": "2026-09-12",
+      "source_id": "36994226",
+      "source_url": "https://movie.douban.com/subject/36994226/",
+      "status": "active",
+      "title": "偷偷喜欢你 夏日最後的秘密",
+      "updated_at": "2026-08-15T02:19:04.257773+00:00"
     },
     {
       "countries": [
