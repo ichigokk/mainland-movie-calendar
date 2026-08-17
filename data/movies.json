@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T02:34:54.596432+00:00",
+  "generated_at": "2026-08-17T02:34:02.620735+00:00",
   "movies": [
     {
       "countries": [
@@ -351,7 +351,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-09",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-17",
       "source_id": "37248641",
       "source_url": "https://movie.douban.com/subject/37248641/",
@@ -399,7 +399,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 5,
+      "missing_runs": 6,
       "release_date": "2026-08-19",
       "source_id": "37452950",
       "source_url": "https://movie.douban.com/subject/37452950/",
@@ -435,15 +435,25 @@
         "爱情",
         "奇幻"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-17T02:34:02.620735+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "withdrawn"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 2,
+      "missing_runs": 3,
       "release_date": "2026-08-19",
       "source_id": "35390242",
       "source_url": "https://movie.douban.com/subject/35390242/",
-      "status": "active",
+      "status": "withdrawn",
       "title": "我想留在你身边",
-      "updated_at": "2026-07-28T12:40:34.898177+00:00"
+      "updated_at": "2026-08-17T02:34:02.620735+00:00"
     },
     {
       "countries": [
@@ -526,7 +536,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 17,
+      "missing_runs": 18,
       "release_date": "2026-08-21",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
