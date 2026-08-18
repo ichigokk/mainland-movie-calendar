@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T02:34:02.620735+00:00",
+  "generated_at": "2026-08-18T02:21:36.662916+00:00",
   "movies": [
     {
       "countries": [
@@ -349,15 +349,25 @@
         "儿童",
         "喜剧"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-18T02:21:36.662916+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-08-09",
       "missing_runs": 1,
       "release_date": "2026-08-17",
       "source_id": "37248641",
       "source_url": "https://movie.douban.com/subject/37248641/",
-      "status": "active",
+      "status": "released",
       "title": "最小的大片",
-      "updated_at": "2026-08-09T03:08:13.391854+00:00"
+      "updated_at": "2026-08-18T02:21:36.662916+00:00"
     },
     {
       "countries": [
@@ -399,7 +409,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 6,
+      "missing_runs": 7,
       "release_date": "2026-08-19",
       "source_id": "37452950",
       "source_url": "https://movie.douban.com/subject/37452950/",
@@ -447,7 +457,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 3,
+      "missing_runs": 4,
       "release_date": "2026-08-19",
       "source_id": "35390242",
       "source_url": "https://movie.douban.com/subject/35390242/",
@@ -497,6 +507,24 @@
     },
     {
       "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-08-18",
+      "genres": [
+        "历史"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-18",
+      "missing_runs": 0,
+      "release_date": "2026-08-21",
+      "source_id": "36737231",
+      "source_url": "https://movie.douban.com/subject/36737231/",
+      "status": "active",
+      "title": "大秦文公",
+      "updated_at": "2026-08-18T02:21:36.662916+00:00"
+    },
+    {
+      "countries": [
         "英国",
         "美国"
       ],
@@ -536,7 +564,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 18,
+      "missing_runs": 19,
       "release_date": "2026-08-21",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
@@ -592,6 +620,24 @@
       "status": "active",
       "title": "密档",
       "updated_at": "2026-07-28T12:40:34.898177+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-08-18",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-18",
+      "missing_runs": 0,
+      "release_date": "2026-08-28",
+      "source_id": "36931140",
+      "source_url": "https://movie.douban.com/subject/36931140/",
+      "status": "active",
+      "title": "数到三",
+      "updated_at": "2026-08-18T02:21:36.662916+00:00"
     },
     {
       "countries": [
