@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T02:21:36.662916+00:00",
+  "generated_at": "2026-08-19T02:31:44.882723+00:00",
   "movies": [
     {
       "countries": [
@@ -380,7 +380,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-03",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-19",
       "source_id": "36779597",
       "source_url": "https://movie.douban.com/subject/36779597/",
@@ -409,7 +409,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 7,
+      "missing_runs": 8,
       "release_date": "2026-08-19",
       "source_id": "37452950",
       "source_url": "https://movie.douban.com/subject/37452950/",
@@ -428,7 +428,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-13",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-19",
       "source_id": "35317825",
       "source_url": "https://movie.douban.com/subject/35317825/",
@@ -457,7 +457,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 4,
+      "missing_runs": 5,
       "release_date": "2026-08-19",
       "source_id": "35390242",
       "source_url": "https://movie.douban.com/subject/35390242/",
@@ -477,7 +477,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-07",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-19",
       "source_id": "2131459",
       "source_url": "https://movie.douban.com/subject/2131459/",
@@ -497,7 +497,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-15",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-19",
       "source_id": "37508847",
       "source_url": "https://movie.douban.com/subject/37508847/",
@@ -525,27 +525,6 @@
     },
     {
       "countries": [
-        "英国",
-        "美国"
-      ],
-      "first_seen_at": "2026-07-28",
-      "genres": [
-        "动作",
-        "犯罪",
-        "惊悚"
-      ],
-      "history": [],
-      "last_seen_at": "2026-07-28",
-      "missing_runs": 0,
-      "release_date": "2026-08-21",
-      "source_id": "36889088",
-      "source_url": "https://movie.douban.com/subject/36889088/",
-      "status": "active",
-      "title": "怒之杀",
-      "updated_at": "2026-07-28T12:40:34.898177+00:00"
-    },
-    {
-      "countries": [
         "中国大陆"
       ],
       "first_seen_at": "2026-07-28",
@@ -564,7 +543,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 19,
+      "missing_runs": 20,
       "release_date": "2026-08-21",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
@@ -676,6 +655,37 @@
       "status": "active",
       "title": "时代宠儿",
       "updated_at": "2026-08-08T03:00:49.840538+00:00"
+    },
+    {
+      "countries": [
+        "英国",
+        "美国"
+      ],
+      "first_seen_at": "2026-07-28",
+      "genres": [
+        "动作",
+        "犯罪",
+        "惊悚"
+      ],
+      "history": [
+        {
+          "at": "2026-08-19T02:31:44.882723+00:00",
+          "changes": {
+            "release_date": {
+              "from": "2026-08-21",
+              "to": "2026-09-04"
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-08-19",
+      "missing_runs": 0,
+      "release_date": "2026-09-04",
+      "source_id": "36889088",
+      "source_url": "https://movie.douban.com/subject/36889088/",
+      "status": "active",
+      "title": "怒之杀",
+      "updated_at": "2026-08-19T02:31:44.882723+00:00"
     },
     {
       "countries": [
