@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T02:31:44.882723+00:00",
+  "generated_at": "2026-08-20T02:30:42.454164+00:00",
   "movies": [
     {
       "countries": [
@@ -378,15 +378,25 @@
         "剧情",
         "爱情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-20T02:30:42.454164+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-08-03",
       "missing_runs": 1,
       "release_date": "2026-08-19",
       "source_id": "36779597",
       "source_url": "https://movie.douban.com/subject/36779597/",
-      "status": "active",
+      "status": "released",
       "title": "不想失去你",
-      "updated_at": "2026-08-03T04:46:59.156367+00:00"
+      "updated_at": "2026-08-20T02:30:42.454164+00:00"
     },
     {
       "countries": [
@@ -426,44 +436,25 @@
         "剧情",
         "爱情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-20T02:30:42.454164+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-08-13",
       "missing_runs": 1,
       "release_date": "2026-08-19",
       "source_id": "35317825",
       "source_url": "https://movie.douban.com/subject/35317825/",
-      "status": "active",
+      "status": "released",
       "title": "喜欢高兴爱",
-      "updated_at": "2026-08-13T03:32:54.545731+00:00"
-    },
-    {
-      "countries": [
-        "中国大陆"
-      ],
-      "first_seen_at": "2026-07-28",
-      "genres": [
-        "爱情",
-        "奇幻"
-      ],
-      "history": [
-        {
-          "at": "2026-08-17T02:34:02.620735+00:00",
-          "changes": {
-            "status": {
-              "from": "active",
-              "to": "withdrawn"
-            }
-          }
-        }
-      ],
-      "last_seen_at": "2026-07-28",
-      "missing_runs": 5,
-      "release_date": "2026-08-19",
-      "source_id": "35390242",
-      "source_url": "https://movie.douban.com/subject/35390242/",
-      "status": "withdrawn",
-      "title": "我想留在你身边",
-      "updated_at": "2026-08-17T02:34:02.620735+00:00"
+      "updated_at": "2026-08-20T02:30:42.454164+00:00"
     },
     {
       "countries": [
@@ -475,15 +466,25 @@
         "动画",
         "冒险"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-20T02:30:42.454164+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-08-07",
       "missing_runs": 1,
       "release_date": "2026-08-19",
       "source_id": "2131459",
       "source_url": "https://movie.douban.com/subject/2131459/",
-      "status": "active",
+      "status": "released",
       "title": "机器人总动员",
-      "updated_at": "2026-08-07T04:03:42.460285+00:00"
+      "updated_at": "2026-08-20T02:30:42.454164+00:00"
     },
     {
       "countries": [
@@ -495,15 +496,25 @@
         "剧情",
         "犯罪"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-20T02:30:42.454164+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-08-15",
       "missing_runs": 1,
       "release_date": "2026-08-19",
       "source_id": "37508847",
       "source_url": "https://movie.douban.com/subject/37508847/",
-      "status": "active",
+      "status": "released",
       "title": "空枪",
-      "updated_at": "2026-08-15T02:19:04.257773+00:00"
+      "updated_at": "2026-08-20T02:30:42.454164+00:00"
     },
     {
       "countries": [
@@ -543,7 +554,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 20,
+      "missing_runs": 21,
       "release_date": "2026-08-21",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
@@ -599,6 +610,26 @@
       "status": "active",
       "title": "密档",
       "updated_at": "2026-07-28T12:40:34.898177+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-08-20",
+      "genres": [
+        "悬疑",
+        "惊悚",
+        "恐怖"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-20",
+      "missing_runs": 0,
+      "release_date": "2026-08-28",
+      "source_id": "37427091",
+      "source_url": "https://movie.douban.com/subject/37427091/",
+      "status": "active",
+      "title": "怪屋",
+      "updated_at": "2026-08-20T02:30:42.454164+00:00"
     },
     {
       "countries": [
@@ -763,6 +794,48 @@
       "status": "active",
       "title": "偷偷喜欢你 夏日最後的秘密",
       "updated_at": "2026-08-15T02:19:04.257773+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-07-28",
+      "genres": [
+        "爱情",
+        "奇幻"
+      ],
+      "history": [
+        {
+          "at": "2026-08-17T02:34:02.620735+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "withdrawn"
+            }
+          }
+        },
+        {
+          "at": "2026-08-20T02:30:42.454164+00:00",
+          "changes": {
+            "release_date": {
+              "from": "2026-08-19",
+              "to": "2026-09-12"
+            },
+            "status": {
+              "from": "withdrawn",
+              "to": "active"
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-08-20",
+      "missing_runs": 0,
+      "release_date": "2026-09-12",
+      "source_id": "35390242",
+      "source_url": "https://movie.douban.com/subject/35390242/",
+      "status": "active",
+      "title": "我想留在你身边",
+      "updated_at": "2026-08-20T02:30:42.454164+00:00"
     },
     {
       "countries": [
