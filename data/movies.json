@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T02:30:42.454164+00:00",
+  "generated_at": "2026-08-21T02:37:13.456056+00:00",
   "movies": [
     {
       "countries": [
@@ -526,7 +526,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-18",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-21",
       "source_id": "36737231",
       "source_url": "https://movie.douban.com/subject/36737231/",
@@ -554,7 +554,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 21,
+      "missing_runs": 22,
       "release_date": "2026-08-21",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
