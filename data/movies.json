@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T02:37:13.456056+00:00",
+  "generated_at": "2026-08-22T02:20:42.315568+00:00",
   "movies": [
     {
       "countries": [
@@ -524,15 +524,25 @@
       "genres": [
         "历史"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-22T02:20:42.315568+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-08-18",
       "missing_runs": 1,
       "release_date": "2026-08-21",
       "source_id": "36737231",
       "source_url": "https://movie.douban.com/subject/36737231/",
-      "status": "active",
+      "status": "released",
       "title": "大秦文公",
-      "updated_at": "2026-08-18T02:21:36.662916+00:00"
+      "updated_at": "2026-08-22T02:20:42.315568+00:00"
     },
     {
       "countries": [
@@ -584,7 +594,7 @@
         }
       ],
       "last_seen_at": "2026-08-06",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-22",
       "source_id": "35464353",
       "source_url": "https://movie.douban.com/subject/35464353/",
