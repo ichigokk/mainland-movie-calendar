@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T02:37:04.201159+00:00",
+  "generated_at": "2026-08-25T02:31:08.927485+00:00",
   "movies": [
     {
       "countries": [
@@ -873,6 +873,24 @@
       "status": "active",
       "title": "浪花儿",
       "updated_at": "2026-08-12T03:29:18.120231+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-08-25",
+      "genres": [
+        "悬疑"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-25",
+      "missing_runs": 0,
+      "release_date": "2026-09-17",
+      "source_id": "37517044",
+      "source_url": "https://movie.douban.com/subject/37517044/",
+      "status": "active",
+      "title": "目不转睛",
+      "updated_at": "2026-08-25T02:31:08.927485+00:00"
     },
     {
       "countries": [
