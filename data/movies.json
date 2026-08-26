@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T02:31:08.927485+00:00",
+  "generated_at": "2026-08-26T02:39:23.969895+00:00",
   "movies": [
     {
       "countries": [
@@ -891,6 +891,66 @@
       "status": "active",
       "title": "目不转睛",
       "updated_at": "2026-08-25T02:31:08.927485+00:00"
+    },
+    {
+      "countries": [
+        "美国"
+      ],
+      "first_seen_at": "2026-08-26",
+      "genres": [
+        "剧情",
+        "动作",
+        "科幻"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-26",
+      "missing_runs": 0,
+      "release_date": "2026-09-25",
+      "source_id": "26100958",
+      "source_url": "https://movie.douban.com/subject/26100958/",
+      "status": "active",
+      "title": "复仇者联盟4：终局之战",
+      "updated_at": "2026-08-26T02:39:23.969895+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆",
+        "中国香港"
+      ],
+      "first_seen_at": "2026-08-26",
+      "genres": [
+        "爱情",
+        "动画",
+        "奇幻"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-26",
+      "missing_runs": 0,
+      "release_date": "2026-09-25",
+      "source_id": "36421885",
+      "source_url": "https://movie.douban.com/subject/36421885/",
+      "status": "active",
+      "title": "梁祝·化蝶",
+      "updated_at": "2026-08-26T02:39:23.969895+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-08-26",
+      "genres": [
+        "剧情",
+        "喜剧"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-26",
+      "missing_runs": 0,
+      "release_date": "2026-09-25",
+      "source_id": "37144718",
+      "source_url": "https://movie.douban.com/subject/37144718/",
+      "status": "active",
+      "title": "铁达妮的号",
+      "updated_at": "2026-08-26T02:39:23.969895+00:00"
     },
     {
       "countries": [
