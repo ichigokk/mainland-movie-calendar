@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T02:39:23.969895+00:00",
+  "generated_at": "2026-08-27T11:11:59.221409+00:00",
   "movies": [
     {
       "countries": [
@@ -634,26 +634,6 @@
       "countries": [
         "中国大陆"
       ],
-      "first_seen_at": "2026-08-20",
-      "genres": [
-        "悬疑",
-        "惊悚",
-        "恐怖"
-      ],
-      "history": [],
-      "last_seen_at": "2026-08-20",
-      "missing_runs": 0,
-      "release_date": "2026-08-28",
-      "source_id": "37427091",
-      "source_url": "https://movie.douban.com/subject/37427091/",
-      "status": "active",
-      "title": "怪屋",
-      "updated_at": "2026-08-20T02:30:42.454164+00:00"
-    },
-    {
-      "countries": [
-        "中国大陆"
-      ],
       "first_seen_at": "2026-08-18",
       "genres": [
         "剧情"
@@ -708,6 +688,26 @@
     },
     {
       "countries": [
+        "美国",
+        "英国"
+      ],
+      "first_seen_at": "2026-08-27",
+      "genres": [
+        "惊悚",
+        "冒险"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-27",
+      "missing_runs": 0,
+      "release_date": "2026-09-04",
+      "source_id": "36318704",
+      "source_url": "https://movie.douban.com/subject/36318704/",
+      "status": "active",
+      "title": "坠落2：死点",
+      "updated_at": "2026-08-27T11:11:59.221409+00:00"
+    },
+    {
+      "countries": [
         "英国",
         "美国"
       ],
@@ -736,6 +736,36 @@
       "status": "active",
       "title": "怒之杀",
       "updated_at": "2026-08-19T02:31:44.882723+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-08-20",
+      "genres": [
+        "悬疑",
+        "惊悚",
+        "恐怖"
+      ],
+      "history": [
+        {
+          "at": "2026-08-27T11:11:59.221409+00:00",
+          "changes": {
+            "release_date": {
+              "from": "2026-08-28",
+              "to": "2026-09-04"
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-08-27",
+      "missing_runs": 0,
+      "release_date": "2026-09-04",
+      "source_id": "37427091",
+      "source_url": "https://movie.douban.com/subject/37427091/",
+      "status": "active",
+      "title": "怪屋",
+      "updated_at": "2026-08-27T11:11:59.221409+00:00"
     },
     {
       "countries": [
@@ -784,6 +814,24 @@
       "status": "active",
       "title": "燃烧吧！爸爸",
       "updated_at": "2026-08-12T03:29:18.120231+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-08-27",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-27",
+      "missing_runs": 0,
+      "release_date": "2026-09-05",
+      "source_id": "37171813",
+      "source_url": "https://movie.douban.com/subject/37171813/",
+      "status": "active",
+      "title": "红闪电",
+      "updated_at": "2026-08-27T11:11:59.221409+00:00"
     },
     {
       "countries": [
@@ -932,6 +980,46 @@
       "status": "active",
       "title": "梁祝·化蝶",
       "updated_at": "2026-08-26T02:39:23.969895+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-08-27",
+      "genres": [
+        "悬疑",
+        "惊悚",
+        "恐怖"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-27",
+      "missing_runs": 0,
+      "release_date": "2026-09-25",
+      "source_id": "37380650",
+      "source_url": "https://movie.douban.com/subject/37380650/",
+      "status": "active",
+      "title": "死亡禁区实录",
+      "updated_at": "2026-08-27T11:11:59.221409+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-08-27",
+      "genres": [
+        "喜剧",
+        "动作",
+        "犯罪"
+      ],
+      "history": [],
+      "last_seen_at": "2026-08-27",
+      "missing_runs": 0,
+      "release_date": "2026-09-25",
+      "source_id": "35840408",
+      "source_url": "https://movie.douban.com/subject/35840408/",
+      "status": "active",
+      "title": "老江湖",
+      "updated_at": "2026-08-27T11:11:59.221409+00:00"
     },
     {
       "countries": [
