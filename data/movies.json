@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T11:11:59.221409+00:00",
+  "generated_at": "2026-08-28T12:46:26.182535+00:00",
   "movies": [
     {
       "countries": [
@@ -622,7 +622,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-28",
       "source_id": "35209727",
       "source_url": "https://movie.douban.com/subject/35209727/",
@@ -640,7 +640,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-18",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-28",
       "source_id": "36931140",
       "source_url": "https://movie.douban.com/subject/36931140/",
@@ -659,7 +659,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-10",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-28",
       "source_id": "1292052",
       "source_url": "https://movie.douban.com/subject/1292052/",
@@ -1007,19 +1007,35 @@
       ],
       "first_seen_at": "2026-08-27",
       "genres": [
-        "喜剧",
         "动作",
         "犯罪"
       ],
-      "history": [],
-      "last_seen_at": "2026-08-27",
+      "history": [
+        {
+          "at": "2026-08-28T12:46:26.182535+00:00",
+          "changes": {
+            "genres": {
+              "from": [
+                "喜剧",
+                "动作",
+                "犯罪"
+              ],
+              "to": [
+                "动作",
+                "犯罪"
+              ]
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-08-28",
       "missing_runs": 0,
       "release_date": "2026-09-25",
       "source_id": "35840408",
       "source_url": "https://movie.douban.com/subject/35840408/",
       "status": "active",
       "title": "老江湖",
-      "updated_at": "2026-08-27T11:11:59.221409+00:00"
+      "updated_at": "2026-08-28T12:46:26.182535+00:00"
     },
     {
       "countries": [
