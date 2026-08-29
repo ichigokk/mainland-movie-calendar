@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T12:46:26.182535+00:00",
+  "generated_at": "2026-08-29T07:53:02.115386+00:00",
   "movies": [
     {
       "countries": [
@@ -620,15 +620,25 @@
         "剧情",
         "悬疑"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-29T07:53:02.115386+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-07-28",
       "missing_runs": 1,
       "release_date": "2026-08-28",
       "source_id": "35209727",
       "source_url": "https://movie.douban.com/subject/35209727/",
-      "status": "active",
+      "status": "released",
       "title": "密档",
-      "updated_at": "2026-07-28T12:40:34.898177+00:00"
+      "updated_at": "2026-08-29T07:53:02.115386+00:00"
     },
     {
       "countries": [
@@ -638,15 +648,25 @@
       "genres": [
         "剧情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-29T07:53:02.115386+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-08-18",
       "missing_runs": 1,
       "release_date": "2026-08-28",
       "source_id": "36931140",
       "source_url": "https://movie.douban.com/subject/36931140/",
-      "status": "active",
+      "status": "released",
       "title": "数到三",
-      "updated_at": "2026-08-18T02:21:36.662916+00:00"
+      "updated_at": "2026-08-29T07:53:02.115386+00:00"
     },
     {
       "countries": [
@@ -657,15 +677,25 @@
         "犯罪",
         "剧情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-29T07:53:02.115386+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-08-10",
       "missing_runs": 1,
       "release_date": "2026-08-28",
       "source_id": "1292052",
       "source_url": "https://movie.douban.com/subject/1292052/",
-      "status": "active",
+      "status": "released",
       "title": "肖申克的救赎",
-      "updated_at": "2026-08-10T03:18:54.247764+00:00"
+      "updated_at": "2026-08-29T07:53:02.115386+00:00"
     },
     {
       "countries": [
@@ -678,7 +708,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-08",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-08-29",
       "source_id": "38592284",
       "source_url": "https://movie.douban.com/subject/38592284/",
