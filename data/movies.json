@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T07:53:02.115386+00:00",
+  "generated_at": "2026-08-30T06:39:17.990905+00:00",
   "movies": [
     {
       "countries": [
@@ -706,15 +706,25 @@
         "剧情",
         "爱情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-08-30T06:39:17.990905+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-08-08",
       "missing_runs": 1,
       "release_date": "2026-08-29",
       "source_id": "38592284",
       "source_url": "https://movie.douban.com/subject/38592284/",
-      "status": "active",
+      "status": "released",
       "title": "时代宠儿",
-      "updated_at": "2026-08-08T03:00:49.840538+00:00"
+      "updated_at": "2026-08-30T06:39:17.990905+00:00"
     },
     {
       "countries": [
