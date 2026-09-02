@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T06:39:17.990905+00:00",
+  "generated_at": "2026-09-02T05:49:10.698634+00:00",
   "movies": [
     {
       "countries": [
@@ -728,6 +728,24 @@
     },
     {
       "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-02",
+      "genres": [
+        "纪录片"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-02",
+      "missing_runs": 0,
+      "release_date": "2026-09-03",
+      "source_id": "38188824",
+      "source_url": "https://movie.douban.com/subject/38188824/",
+      "status": "active",
+      "title": "正义必胜",
+      "updated_at": "2026-09-02T05:49:10.698634+00:00"
+    },
+    {
+      "countries": [
         "美国",
         "英国"
       ],
@@ -838,6 +856,25 @@
     },
     {
       "countries": [
+        "加拿大"
+      ],
+      "first_seen_at": "2026-09-02",
+      "genres": [
+        "纪录片",
+        "短片"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-02",
+      "missing_runs": 0,
+      "release_date": "2026-09-05",
+      "source_id": "33422507",
+      "source_url": "https://movie.douban.com/subject/33422507/",
+      "status": "active",
+      "title": "大熊雨林",
+      "updated_at": "2026-09-02T05:49:10.698634+00:00"
+    },
+    {
+      "countries": [
         "中国大陆"
       ],
       "first_seen_at": "2026-08-12",
@@ -901,6 +938,25 @@
       "status": "active",
       "title": "偷偷喜欢你 夏日最後的秘密",
       "updated_at": "2026-08-15T02:19:04.257773+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-02",
+      "genres": [
+        "悬疑",
+        "惊悚"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-02",
+      "missing_runs": 0,
+      "release_date": "2026-09-12",
+      "source_id": "36961914",
+      "source_url": "https://movie.douban.com/subject/36961914/",
+      "status": "active",
+      "title": "床下有人4",
+      "updated_at": "2026-09-02T05:49:10.698634+00:00"
     },
     {
       "countries": [
@@ -1047,6 +1103,7 @@
       ],
       "first_seen_at": "2026-08-27",
       "genres": [
+        "喜剧",
         "动作",
         "犯罪"
       ],
@@ -1066,16 +1123,32 @@
               ]
             }
           }
+        },
+        {
+          "at": "2026-09-02T05:49:10.698634+00:00",
+          "changes": {
+            "genres": {
+              "from": [
+                "动作",
+                "犯罪"
+              ],
+              "to": [
+                "喜剧",
+                "动作",
+                "犯罪"
+              ]
+            }
+          }
         }
       ],
-      "last_seen_at": "2026-08-28",
+      "last_seen_at": "2026-09-02",
       "missing_runs": 0,
       "release_date": "2026-09-25",
       "source_id": "35840408",
       "source_url": "https://movie.douban.com/subject/35840408/",
       "status": "active",
       "title": "老江湖",
-      "updated_at": "2026-08-28T12:46:26.182535+00:00"
+      "updated_at": "2026-09-02T05:49:10.698634+00:00"
     },
     {
       "countries": [
