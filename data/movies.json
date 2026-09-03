@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T05:49:10.698634+00:00",
+  "generated_at": "2026-09-03T05:47:23.688838+00:00",
   "movies": [
     {
       "countries": [
@@ -736,7 +736,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-09-02",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-03",
       "source_id": "38188824",
       "source_url": "https://movie.douban.com/subject/38188824/",
@@ -1038,6 +1038,24 @@
     },
     {
       "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-03",
+      "genres": [
+        "喜剧"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-03",
+      "missing_runs": 0,
+      "release_date": "2026-09-19",
+      "source_id": "36192993",
+      "source_url": "https://movie.douban.com/subject/36192993/",
+      "status": "active",
+      "title": "一路超平安",
+      "updated_at": "2026-09-03T05:47:23.688838+00:00"
+    },
+    {
+      "countries": [
         "美国"
       ],
       "first_seen_at": "2026-08-26",
@@ -1168,6 +1186,26 @@
       "status": "active",
       "title": "铁达妮的号",
       "updated_at": "2026-08-26T02:39:23.969895+00:00"
+    },
+    {
+      "countries": [
+        "美国"
+      ],
+      "first_seen_at": "2026-09-03",
+      "genres": [
+        "剧情",
+        "动作",
+        "冒险"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-03",
+      "missing_runs": 0,
+      "release_date": "2026-09-30",
+      "source_id": "36828393",
+      "source_url": "https://movie.douban.com/subject/36828393/",
+      "status": "active",
+      "title": "野兽之心",
+      "updated_at": "2026-09-03T05:47:23.688838+00:00"
     },
     {
       "countries": [
