@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T05:47:23.688838+00:00",
+  "generated_at": "2026-09-04T05:53:46.481618+00:00",
   "movies": [
     {
       "countries": [
@@ -734,15 +734,25 @@
       "genres": [
         "纪录片"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-09-04T05:53:46.481618+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-09-02",
       "missing_runs": 1,
       "release_date": "2026-09-03",
       "source_id": "38188824",
       "source_url": "https://movie.douban.com/subject/38188824/",
-      "status": "active",
+      "status": "released",
       "title": "正义必胜",
-      "updated_at": "2026-09-02T05:49:10.698634+00:00"
+      "updated_at": "2026-09-04T05:53:46.481618+00:00"
     },
     {
       "countries": [
@@ -756,7 +766,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-27",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-04",
       "source_id": "36318704",
       "source_url": "https://movie.douban.com/subject/36318704/",
@@ -787,7 +797,7 @@
         }
       ],
       "last_seen_at": "2026-08-19",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-04",
       "source_id": "36889088",
       "source_url": "https://movie.douban.com/subject/36889088/",
@@ -817,7 +827,7 @@
         }
       ],
       "last_seen_at": "2026-08-27",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-04",
       "source_id": "37427091",
       "source_url": "https://movie.douban.com/subject/37427091/",
@@ -846,7 +856,7 @@
         }
       ],
       "last_seen_at": "2026-08-01",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-04",
       "source_id": "10756537",
       "source_url": "https://movie.douban.com/subject/10756537/",
@@ -1056,6 +1066,24 @@
     },
     {
       "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-04",
+      "genres": [
+        "爱情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-04",
+      "missing_runs": 0,
+      "release_date": "2026-09-20",
+      "source_id": "35027221",
+      "source_url": "https://movie.douban.com/subject/35027221/",
+      "status": "active",
+      "title": "那些年我们的初恋",
+      "updated_at": "2026-09-04T05:53:46.481618+00:00"
+    },
+    {
+      "countries": [
         "美国"
       ],
       "first_seen_at": "2026-08-26",
@@ -1114,6 +1142,26 @@
       "status": "active",
       "title": "死亡禁区实录",
       "updated_at": "2026-08-27T11:11:59.221409+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-04",
+      "genres": [
+        "悬疑",
+        "惊悚",
+        "恐怖"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-04",
+      "missing_runs": 0,
+      "release_date": "2026-09-25",
+      "source_id": "37407445",
+      "source_url": "https://movie.douban.com/subject/37407445/",
+      "status": "active",
+      "title": "红衣新娘",
+      "updated_at": "2026-09-04T05:53:46.481618+00:00"
     },
     {
       "countries": [
