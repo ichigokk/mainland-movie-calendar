@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T05:53:46.481618+00:00",
+  "generated_at": "2026-09-05T05:45:00.104580+00:00",
   "movies": [
     {
       "countries": [
@@ -764,15 +764,25 @@
         "惊悚",
         "冒险"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-09-05T05:45:00.104580+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-08-27",
       "missing_runs": 1,
       "release_date": "2026-09-04",
       "source_id": "36318704",
       "source_url": "https://movie.douban.com/subject/36318704/",
-      "status": "active",
+      "status": "released",
       "title": "坠落2：死点",
-      "updated_at": "2026-08-27T11:11:59.221409+00:00"
+      "updated_at": "2026-09-05T05:45:00.104580+00:00"
     },
     {
       "countries": [
@@ -794,6 +804,15 @@
               "to": "2026-09-04"
             }
           }
+        },
+        {
+          "at": "2026-09-05T05:45:00.104580+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
         }
       ],
       "last_seen_at": "2026-08-19",
@@ -801,9 +820,9 @@
       "release_date": "2026-09-04",
       "source_id": "36889088",
       "source_url": "https://movie.douban.com/subject/36889088/",
-      "status": "active",
+      "status": "released",
       "title": "怒之杀",
-      "updated_at": "2026-08-19T02:31:44.882723+00:00"
+      "updated_at": "2026-09-05T05:45:00.104580+00:00"
     },
     {
       "countries": [
@@ -824,6 +843,15 @@
               "to": "2026-09-04"
             }
           }
+        },
+        {
+          "at": "2026-09-05T05:45:00.104580+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
         }
       ],
       "last_seen_at": "2026-08-27",
@@ -831,9 +859,9 @@
       "release_date": "2026-09-04",
       "source_id": "37427091",
       "source_url": "https://movie.douban.com/subject/37427091/",
-      "status": "active",
+      "status": "released",
       "title": "怪屋",
-      "updated_at": "2026-08-27T11:11:59.221409+00:00"
+      "updated_at": "2026-09-05T05:45:00.104580+00:00"
     },
     {
       "countries": [
@@ -853,6 +881,15 @@
               "to": "2026-09-04"
             }
           }
+        },
+        {
+          "at": "2026-09-05T05:45:00.104580+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
         }
       ],
       "last_seen_at": "2026-08-01",
@@ -860,9 +897,9 @@
       "release_date": "2026-09-04",
       "source_id": "10756537",
       "source_url": "https://movie.douban.com/subject/10756537/",
-      "status": "active",
+      "status": "released",
       "title": "杀死比尔：血色全传",
-      "updated_at": "2026-08-01T04:34:55.329491+00:00"
+      "updated_at": "2026-09-05T05:45:00.104580+00:00"
     },
     {
       "countries": [
@@ -875,7 +912,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-09-02",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-05",
       "source_id": "33422507",
       "source_url": "https://movie.douban.com/subject/33422507/",
@@ -894,7 +931,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-12",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-05",
       "source_id": "36903929",
       "source_url": "https://movie.douban.com/subject/36903929/",
@@ -912,7 +949,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-27",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-05",
       "source_id": "37171813",
       "source_url": "https://movie.douban.com/subject/37171813/",
@@ -1084,6 +1121,24 @@
     },
     {
       "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-05",
+      "genres": [
+        "纪录片"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-05",
+      "missing_runs": 0,
+      "release_date": "2026-09-24",
+      "source_id": "37406669",
+      "source_url": "https://movie.douban.com/subject/37406669/",
+      "status": "active",
+      "title": "明月照他乡",
+      "updated_at": "2026-09-05T05:45:00.104580+00:00"
+    },
+    {
+      "countries": [
         "美国"
       ],
       "first_seen_at": "2026-08-26",
@@ -1115,7 +1170,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-26",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-25",
       "source_id": "36421885",
       "source_url": "https://movie.douban.com/subject/36421885/",
