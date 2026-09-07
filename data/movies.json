@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T05:56:55.689827+00:00",
+  "generated_at": "2026-09-07T06:06:13.622401+00:00",
   "movies": [
     {
       "countries": [
@@ -1198,15 +1198,25 @@
         "动画",
         "奇幻"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-09-07T06:06:13.622401+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "withdrawn"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-08-26",
-      "missing_runs": 2,
+      "missing_runs": 3,
       "release_date": "2026-09-25",
       "source_id": "36421885",
       "source_url": "https://movie.douban.com/subject/36421885/",
-      "status": "active",
+      "status": "withdrawn",
       "title": "梁祝·化蝶",
-      "updated_at": "2026-08-26T02:39:23.969895+00:00"
+      "updated_at": "2026-09-07T06:06:13.622401+00:00"
     },
     {
       "countries": [
