@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T05:58:05.292319+00:00",
+  "generated_at": "2026-09-09T05:58:51.587589+00:00",
   "movies": [
     {
       "countries": [
@@ -1169,6 +1169,24 @@
     },
     {
       "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-09",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-09",
+      "missing_runs": 0,
+      "release_date": "2026-09-25",
+      "source_id": "37667170",
+      "source_url": "https://movie.douban.com/subject/37667170/",
+      "status": "active",
+      "title": "凝脂手",
+      "updated_at": "2026-09-09T05:58:51.587589+00:00"
+    },
+    {
+      "countries": [
         "美国"
       ],
       "first_seen_at": "2026-08-26",
@@ -1210,7 +1228,7 @@
         }
       ],
       "last_seen_at": "2026-08-26",
-      "missing_runs": 4,
+      "missing_runs": 5,
       "release_date": "2026-09-25",
       "source_id": "36421885",
       "source_url": "https://movie.douban.com/subject/36421885/",
@@ -1349,6 +1367,24 @@
       "status": "active",
       "title": "野兽之心",
       "updated_at": "2026-09-03T05:47:23.688838+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-09",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-09",
+      "missing_runs": 0,
+      "release_date": "2026-10-01",
+      "source_id": "37899051",
+      "source_url": "https://movie.douban.com/subject/37899051/",
+      "status": "active",
+      "title": "活色生香",
+      "updated_at": "2026-09-09T05:58:51.587589+00:00"
     },
     {
       "countries": [
