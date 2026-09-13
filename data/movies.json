@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T05:46:50.674695+00:00",
+  "generated_at": "2026-09-13T06:08:42.646898+00:00",
   "movies": [
     {
       "countries": [
@@ -1005,6 +1005,15 @@
               "to": "2026-09-12"
             }
           }
+        },
+        {
+          "at": "2026-09-13T06:08:42.646898+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
         }
       ],
       "last_seen_at": "2026-08-15",
@@ -1012,9 +1021,9 @@
       "release_date": "2026-09-12",
       "source_id": "36994226",
       "source_url": "https://movie.douban.com/subject/36994226/",
-      "status": "active",
+      "status": "released",
       "title": "偷偷喜欢你 夏日最後的秘密",
-      "updated_at": "2026-08-15T02:19:04.257773+00:00"
+      "updated_at": "2026-09-13T06:08:42.646898+00:00"
     },
     {
       "countries": [
@@ -1025,15 +1034,25 @@
         "悬疑",
         "惊悚"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-09-13T06:08:42.646898+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-09-02",
       "missing_runs": 1,
       "release_date": "2026-09-12",
       "source_id": "36961914",
       "source_url": "https://movie.douban.com/subject/36961914/",
-      "status": "active",
+      "status": "released",
       "title": "床下有人4",
-      "updated_at": "2026-09-02T05:49:10.698634+00:00"
+      "updated_at": "2026-09-13T06:08:42.646898+00:00"
     },
     {
       "countries": [
@@ -1066,6 +1085,15 @@
               "to": "active"
             }
           }
+        },
+        {
+          "at": "2026-09-13T06:08:42.646898+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
         }
       ],
       "last_seen_at": "2026-08-20",
@@ -1073,9 +1101,9 @@
       "release_date": "2026-09-12",
       "source_id": "35390242",
       "source_url": "https://movie.douban.com/subject/35390242/",
-      "status": "active",
+      "status": "released",
       "title": "我想留在你身边",
-      "updated_at": "2026-08-20T02:30:42.454164+00:00"
+      "updated_at": "2026-09-13T06:08:42.646898+00:00"
     },
     {
       "countries": [
@@ -1085,15 +1113,25 @@
       "genres": [
         "纪录片"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-09-13T06:08:42.646898+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-08-12",
       "missing_runs": 1,
       "release_date": "2026-09-12",
       "source_id": "37527015",
       "source_url": "https://movie.douban.com/subject/37527015/",
-      "status": "active",
+      "status": "released",
       "title": "浪花儿",
-      "updated_at": "2026-08-12T03:29:18.120231+00:00"
+      "updated_at": "2026-09-13T06:08:42.646898+00:00"
     },
     {
       "countries": [
@@ -1228,7 +1266,7 @@
         }
       ],
       "last_seen_at": "2026-08-26",
-      "missing_runs": 8,
+      "missing_runs": 9,
       "release_date": "2026-09-25",
       "source_id": "36421885",
       "source_url": "https://movie.douban.com/subject/36421885/",
