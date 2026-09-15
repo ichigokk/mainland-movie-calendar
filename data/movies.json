@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T06:08:42.646898+00:00",
+  "generated_at": "2026-09-15T06:09:58.893907+00:00",
   "movies": [
     {
       "countries": [
@@ -1245,6 +1245,24 @@
     },
     {
       "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-15",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-15",
+      "missing_runs": 0,
+      "release_date": "2026-09-25",
+      "source_id": "38376267",
+      "source_url": "https://movie.douban.com/subject/38376267/",
+      "status": "active",
+      "title": "最后，一根稻草托起了下巴",
+      "updated_at": "2026-09-15T06:09:58.893907+00:00"
+    },
+    {
+      "countries": [
         "中国大陆",
         "中国香港"
       ],
@@ -1266,7 +1284,7 @@
         }
       ],
       "last_seen_at": "2026-08-26",
-      "missing_runs": 9,
+      "missing_runs": 10,
       "release_date": "2026-09-25",
       "source_id": "36421885",
       "source_url": "https://movie.douban.com/subject/36421885/",
@@ -1444,6 +1462,44 @@
       "status": "active",
       "title": "活色生香",
       "updated_at": "2026-09-09T05:58:51.587589+00:00"
+    },
+    {
+      "countries": [
+        "美国"
+      ],
+      "first_seen_at": "2026-09-15",
+      "genres": [
+        "剧情",
+        "惊悚",
+        "冒险"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-15",
+      "missing_runs": 0,
+      "release_date": "2026-10-16",
+      "source_id": "36806762",
+      "source_url": "https://movie.douban.com/subject/36806762/",
+      "status": "active",
+      "title": "鲸口脱险",
+      "updated_at": "2026-09-15T06:09:58.893907+00:00"
+    },
+    {
+      "countries": [
+        "埃及"
+      ],
+      "first_seen_at": "2026-09-15",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-15",
+      "missing_runs": 0,
+      "release_date": "2026-10-23",
+      "source_id": "37322586",
+      "source_url": "https://movie.douban.com/subject/37322586/",
+      "status": "active",
+      "title": "生日快乐 هابي بيرث داي",
+      "updated_at": "2026-09-15T06:09:58.893907+00:00"
     },
     {
       "countries": [
