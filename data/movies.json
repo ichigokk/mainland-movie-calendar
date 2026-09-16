@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T06:09:58.893907+00:00",
+  "generated_at": "2026-09-16T06:01:17.712681+00:00",
   "movies": [
     {
       "countries": [
@@ -1173,6 +1173,24 @@
       "countries": [
         "中国大陆"
       ],
+      "first_seen_at": "2026-09-16",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-16",
+      "missing_runs": 0,
+      "release_date": "2026-09-19",
+      "source_id": "36753343",
+      "source_url": "https://movie.douban.com/subject/36753343/",
+      "status": "active",
+      "title": "上海女儿",
+      "updated_at": "2026-09-16T06:01:17.712681+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
       "first_seen_at": "2026-09-04",
       "genres": [
         "爱情"
@@ -1284,7 +1302,7 @@
         }
       ],
       "last_seen_at": "2026-08-26",
-      "missing_runs": 10,
+      "missing_runs": 11,
       "release_date": "2026-09-25",
       "source_id": "36421885",
       "source_url": "https://movie.douban.com/subject/36421885/",
@@ -1462,6 +1480,25 @@
       "status": "active",
       "title": "活色生香",
       "updated_at": "2026-09-09T05:58:51.587589+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-16",
+      "genres": [
+        "剧情",
+        "犯罪"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-16",
+      "missing_runs": 0,
+      "release_date": "2026-10-01",
+      "source_id": "37247814",
+      "source_url": "https://movie.douban.com/subject/37247814/",
+      "status": "active",
+      "title": "神探之痕迹‎",
+      "updated_at": "2026-09-16T06:01:17.712681+00:00"
     },
     {
       "countries": [
