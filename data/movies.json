@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:01:17.712681+00:00",
+  "generated_at": "2026-09-17T06:08:26.754607+00:00",
   "movies": [
     {
       "countries": [
@@ -1143,7 +1143,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-25",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-17",
       "source_id": "37517044",
       "source_url": "https://movie.douban.com/subject/37517044/",
@@ -1204,6 +1204,24 @@
       "status": "active",
       "title": "那些年我们的初恋",
       "updated_at": "2026-09-04T05:53:46.481618+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-17",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-17",
+      "missing_runs": 0,
+      "release_date": "2026-09-23",
+      "source_id": "34926133",
+      "source_url": "https://movie.douban.com/subject/34926133/",
+      "status": "active",
+      "title": "水东游",
+      "updated_at": "2026-09-17T06:08:26.754607+00:00"
     },
     {
       "countries": [
@@ -1302,7 +1320,7 @@
         }
       ],
       "last_seen_at": "2026-08-26",
-      "missing_runs": 11,
+      "missing_runs": 12,
       "release_date": "2026-09-25",
       "source_id": "36421885",
       "source_url": "https://movie.douban.com/subject/36421885/",
@@ -1444,6 +1462,25 @@
     },
     {
       "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-17",
+      "genres": [
+        "喜剧",
+        "家庭"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-17",
+      "missing_runs": 0,
+      "release_date": "2026-10-01",
+      "source_id": "37667015",
+      "source_url": "https://movie.douban.com/subject/37667015/",
+      "status": "active",
+      "title": "什么意思夫妇",
+      "updated_at": "2026-09-17T06:08:26.754607+00:00"
+    },
+    {
+      "countries": [
         "中国大陆",
         "英国"
       ],
@@ -1487,18 +1524,32 @@
       ],
       "first_seen_at": "2026-09-16",
       "genres": [
-        "剧情",
         "犯罪"
       ],
-      "history": [],
-      "last_seen_at": "2026-09-16",
+      "history": [
+        {
+          "at": "2026-09-17T06:08:26.754607+00:00",
+          "changes": {
+            "genres": {
+              "from": [
+                "剧情",
+                "犯罪"
+              ],
+              "to": [
+                "犯罪"
+              ]
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-09-17",
       "missing_runs": 0,
       "release_date": "2026-10-01",
       "source_id": "37247814",
       "source_url": "https://movie.douban.com/subject/37247814/",
       "status": "active",
       "title": "神探之痕迹‎",
-      "updated_at": "2026-09-16T06:01:17.712681+00:00"
+      "updated_at": "2026-09-17T06:08:26.754607+00:00"
     },
     {
       "countries": [
