@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T05:52:55.350186+00:00",
+  "generated_at": "2026-09-20T06:15:33.960760+00:00",
   "movies": [
     {
       "countries": [
@@ -1169,15 +1169,25 @@
       "genres": [
         "喜剧"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-09-20T06:15:33.960760+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-09-03",
       "missing_runs": 1,
       "release_date": "2026-09-19",
       "source_id": "36192993",
       "source_url": "https://movie.douban.com/subject/36192993/",
-      "status": "active",
+      "status": "released",
       "title": "一路超平安",
-      "updated_at": "2026-09-03T05:47:23.688838+00:00"
+      "updated_at": "2026-09-20T06:15:33.960760+00:00"
     },
     {
       "countries": [
@@ -1187,15 +1197,25 @@
       "genres": [
         "剧情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-09-20T06:15:33.960760+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-09-16",
       "missing_runs": 1,
       "release_date": "2026-09-19",
       "source_id": "36753343",
       "source_url": "https://movie.douban.com/subject/36753343/",
-      "status": "active",
+      "status": "released",
       "title": "上海女儿",
-      "updated_at": "2026-09-16T06:01:17.712681+00:00"
+      "updated_at": "2026-09-20T06:15:33.960760+00:00"
     },
     {
       "countries": [
@@ -1207,7 +1227,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-09-04",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-20",
       "source_id": "35027221",
       "source_url": "https://movie.douban.com/subject/35027221/",
@@ -1330,7 +1350,7 @@
         }
       ],
       "last_seen_at": "2026-08-26",
-      "missing_runs": 14,
+      "missing_runs": 15,
       "release_date": "2026-09-25",
       "source_id": "36421885",
       "source_url": "https://movie.douban.com/subject/36421885/",
@@ -1560,6 +1580,26 @@
       "status": "active",
       "title": "神探之痕迹‎",
       "updated_at": "2026-09-17T06:08:26.754607+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-20",
+      "genres": [
+        "剧情",
+        "动作",
+        "犯罪"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-20",
+      "missing_runs": 0,
+      "release_date": "2026-10-03",
+      "source_id": "37403222",
+      "source_url": "https://movie.douban.com/subject/37403222/",
+      "status": "active",
+      "title": "重生2",
+      "updated_at": "2026-09-20T06:15:33.960760+00:00"
     },
     {
       "countries": [
