@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T06:20:04.256548+00:00",
+  "generated_at": "2026-09-22T06:12:45.048951+00:00",
   "movies": [
     {
       "countries": [
@@ -1323,6 +1323,25 @@
       "countries": [
         "中国大陆"
       ],
+      "first_seen_at": "2026-09-22",
+      "genres": [
+        "动作",
+        "古装"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-22",
+      "missing_runs": 0,
+      "release_date": "2026-09-25",
+      "source_id": "35244246",
+      "source_url": "https://movie.douban.com/subject/35244246/",
+      "status": "active",
+      "title": "敦煌英雄",
+      "updated_at": "2026-09-22T06:12:45.048951+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
       "first_seen_at": "2026-09-15",
       "genres": [
         "剧情"
@@ -1360,7 +1379,7 @@
         }
       ],
       "last_seen_at": "2026-08-26",
-      "missing_runs": 16,
+      "missing_runs": 17,
       "release_date": "2026-09-25",
       "source_id": "36421885",
       "source_url": "https://movie.douban.com/subject/36421885/",
@@ -1521,6 +1540,27 @@
     },
     {
       "countries": [
+        "中国香港",
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-22",
+      "genres": [
+        "剧情",
+        "动作",
+        "犯罪"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-22",
+      "missing_runs": 0,
+      "release_date": "2026-10-01",
+      "source_id": "36912789",
+      "source_url": "https://movie.douban.com/subject/36912789/",
+      "status": "active",
+      "title": "侦战 偵戰",
+      "updated_at": "2026-09-22T06:12:45.048951+00:00"
+    },
+    {
+      "countries": [
         "中国大陆",
         "英国"
       ],
@@ -1597,19 +1637,35 @@
       ],
       "first_seen_at": "2026-09-20",
       "genres": [
-        "剧情",
         "动作",
         "犯罪"
       ],
-      "history": [],
-      "last_seen_at": "2026-09-20",
+      "history": [
+        {
+          "at": "2026-09-22T06:12:45.048951+00:00",
+          "changes": {
+            "genres": {
+              "from": [
+                "剧情",
+                "动作",
+                "犯罪"
+              ],
+              "to": [
+                "动作",
+                "犯罪"
+              ]
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-09-22",
       "missing_runs": 0,
       "release_date": "2026-10-03",
       "source_id": "37403222",
       "source_url": "https://movie.douban.com/subject/37403222/",
       "status": "active",
       "title": "重生2",
-      "updated_at": "2026-09-20T06:15:33.960760+00:00"
+      "updated_at": "2026-09-22T06:12:45.048951+00:00"
     },
     {
       "countries": [
