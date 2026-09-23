@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T06:12:45.048951+00:00",
+  "generated_at": "2026-09-23T05:58:28.636001+00:00",
   "movies": [
     {
       "countries": [
@@ -1255,7 +1255,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-09-17",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-23",
       "source_id": "34926133",
       "source_url": "https://movie.douban.com/subject/34926133/",
@@ -1379,7 +1379,7 @@
         }
       ],
       "last_seen_at": "2026-08-26",
-      "missing_runs": 17,
+      "missing_runs": 18,
       "release_date": "2026-09-25",
       "source_id": "36421885",
       "source_url": "https://movie.douban.com/subject/36421885/",
@@ -1723,6 +1723,25 @@
       "status": "active",
       "title": "象行记",
       "updated_at": "2026-07-28T12:40:34.898177+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-23",
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-23",
+      "missing_runs": 0,
+      "release_date": "2026-12-31",
+      "source_id": "38443833",
+      "source_url": "https://movie.douban.com/subject/38443833/",
+      "status": "active",
+      "title": "活久久",
+      "updated_at": "2026-09-23T05:58:28.636001+00:00"
     },
     {
       "countries": [
