@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T06:10:14.919717+00:00",
+  "generated_at": "2026-09-25T06:09:28.533943+00:00",
   "movies": [
     {
       "countries": [
@@ -1281,15 +1281,25 @@
       "genres": [
         "纪录片"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-09-25T06:09:28.533943+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-09-05",
       "missing_runs": 1,
       "release_date": "2026-09-24",
       "source_id": "37406669",
       "source_url": "https://movie.douban.com/subject/37406669/",
-      "status": "active",
+      "status": "released",
       "title": "明月照他乡",
-      "updated_at": "2026-09-05T05:45:00.104580+00:00"
+      "updated_at": "2026-09-25T06:09:28.533943+00:00"
     },
     {
       "countries": [
@@ -1301,7 +1311,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-09-09",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-25",
       "source_id": "37667170",
       "source_url": "https://movie.douban.com/subject/37667170/",
@@ -1321,7 +1331,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-26",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-25",
       "source_id": "26100958",
       "source_url": "https://movie.douban.com/subject/26100958/",
@@ -1340,7 +1350,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-09-22",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-25",
       "source_id": "35244246",
       "source_url": "https://movie.douban.com/subject/35244246/",
@@ -1358,7 +1368,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-09-15",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-25",
       "source_id": "38376267",
       "source_url": "https://movie.douban.com/subject/38376267/",
@@ -1389,7 +1399,7 @@
         }
       ],
       "last_seen_at": "2026-08-26",
-      "missing_runs": 19,
+      "missing_runs": 20,
       "release_date": "2026-09-25",
       "source_id": "36421885",
       "source_url": "https://movie.douban.com/subject/36421885/",
@@ -1409,7 +1419,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-27",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-25",
       "source_id": "37380650",
       "source_url": "https://movie.douban.com/subject/37380650/",
@@ -1429,7 +1439,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-09-04",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-25",
       "source_id": "37407445",
       "source_url": "https://movie.douban.com/subject/37407445/",
@@ -1482,7 +1492,7 @@
         }
       ],
       "last_seen_at": "2026-09-02",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-25",
       "source_id": "35840408",
       "source_url": "https://movie.douban.com/subject/35840408/",
@@ -1501,7 +1511,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-08-26",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-25",
       "source_id": "37144718",
       "source_url": "https://movie.douban.com/subject/37144718/",
@@ -1594,6 +1604,25 @@
       "countries": [
         "中国大陆"
       ],
+      "first_seen_at": "2026-09-25",
+      "genres": [
+        "动画",
+        "奇幻"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-25",
+      "missing_runs": 0,
+      "release_date": "2026-10-01",
+      "source_id": "38902940",
+      "source_url": "https://movie.douban.com/subject/38902940/",
+      "status": "active",
+      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "updated_at": "2026-09-25T06:09:28.533943+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
       "first_seen_at": "2026-09-09",
       "genres": [
         "剧情"
@@ -1681,6 +1710,26 @@
       "countries": [
         "美国"
       ],
+      "first_seen_at": "2026-09-25",
+      "genres": [
+        "科幻",
+        "惊悚",
+        "恐怖"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-25",
+      "missing_runs": 0,
+      "release_date": "2026-10-05",
+      "source_id": "37068446",
+      "source_url": "https://movie.douban.com/subject/37068446/",
+      "status": "active",
+      "title": "生化危机：爆发夜",
+      "updated_at": "2026-09-25T06:09:28.533943+00:00"
+    },
+    {
+      "countries": [
+        "美国"
+      ],
       "first_seen_at": "2026-09-15",
       "genres": [
         "剧情",
@@ -1738,6 +1787,26 @@
       "countries": [
         "中国大陆"
       ],
+      "first_seen_at": "2026-09-25",
+      "genres": [
+        "剧情",
+        "悬疑",
+        "惊悚"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-25",
+      "missing_runs": 0,
+      "release_date": "2026-11-20",
+      "source_id": "35068655",
+      "source_url": "https://movie.douban.com/subject/35068655/",
+      "status": "active",
+      "title": "试探",
+      "updated_at": "2026-09-25T06:09:28.533943+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
       "first_seen_at": "2026-09-23",
       "genres": [
         "剧情",
@@ -1752,6 +1821,25 @@
       "status": "active",
       "title": "活久久",
       "updated_at": "2026-09-23T05:58:28.636001+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-25",
+      "genres": [
+        "动作",
+        "犯罪"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-25",
+      "missing_runs": 0,
+      "release_date": "2026-12-31",
+      "source_id": "38412138",
+      "source_url": "https://movie.douban.com/subject/38412138/",
+      "status": "active",
+      "title": "狼牙行动",
+      "updated_at": "2026-09-25T06:09:28.533943+00:00"
     },
     {
       "countries": [
