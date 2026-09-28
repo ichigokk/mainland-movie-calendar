@@ -10,57 +10,6 @@ X-WR-RELCALID:mainland-movie-calendar.ichigokk.github.io
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:douban-35209727@mainland-movie-calendar.ichigokk.github.io
-DTSTAMP:20260927T063613Z
-LAST-MODIFIED:20260927T063613Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:🎬《密档》上映
-LOCATION:中国大陆院线
-DESCRIPTION:中国大陆院线上映日期：2026-08-28\n制片国家/地
- 区：中国大陆\n类型：剧情 / 悬疑\n数据来源：豆瓣电影
- “即将上映”页面\n档期易变，请以片方或购票平台最新
- 公告为准。
-URL:https://movie.douban.com/subject/35209727/
-CATEGORIES:电影,中国大陆院线
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:douban-36931140@mainland-movie-calendar.ichigokk.github.io
-DTSTAMP:20260927T063613Z
-LAST-MODIFIED:20260927T063613Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:🎬《数到三》上映
-LOCATION:中国大陆院线
-DESCRIPTION:中国大陆院线上映日期：2026-08-28\n制片国家/地
- 区：中国大陆\n类型：剧情\n数据来源：豆瓣电影“即将
- 上映”页面\n档期易变，请以片方或购票平台最新公告为
- 准。
-URL:https://movie.douban.com/subject/36931140/
-CATEGORIES:电影,中国大陆院线
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:douban-1292052@mainland-movie-calendar.ichigokk.github.io
-DTSTAMP:20260927T063613Z
-LAST-MODIFIED:20260927T063613Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:🎬《肖申克的救赎》上映
-LOCATION:中国大陆院线
-DESCRIPTION:中国大陆院线上映日期：2026-08-28\n制片国家/地
- 区：美国\n类型：犯罪 / 剧情\n数据来源：豆瓣电影“即
- 将上映”页面\n档期易变，请以片方或购票平台最新公告
- 为准。
-URL:https://movie.douban.com/subject/1292052/
-CATEGORIES:电影,中国大陆院线
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:douban-38592284@mainland-movie-calendar.ichigokk.github.io
 DTSTAMP:20260927T063613Z
 LAST-MODIFIED:20260927T063613Z
