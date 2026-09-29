@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:36:13.952412+00:00",
+  "generated_at": "2026-09-29T06:53:44.917736+00:00",
   "movies": [
     {
       "countries": [
@@ -1787,7 +1787,8 @@
     },
     {
       "countries": [
-        "美国"
+        "德国",
+        "法国"
       ],
       "first_seen_at": "2026-09-25",
       "genres": [
@@ -1795,15 +1796,48 @@
         "惊悚",
         "恐怖"
       ],
-      "history": [],
-      "last_seen_at": "2026-09-25",
+      "history": [
+        {
+          "at": "2026-09-29T06:53:44.917736+00:00",
+          "changes": {
+            "countries": {
+              "from": [
+                "美国"
+              ],
+              "to": [
+                "德国",
+                "法国"
+              ]
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-09-29",
       "missing_runs": 0,
       "release_date": "2026-10-05",
       "source_id": "37068446",
       "source_url": "https://movie.douban.com/subject/37068446/",
       "status": "active",
       "title": "生化危机：爆发夜",
-      "updated_at": "2026-09-25T06:09:28.533943+00:00"
+      "updated_at": "2026-09-29T06:53:44.917736+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-09-29",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-29",
+      "missing_runs": 0,
+      "release_date": "2026-10-13",
+      "source_id": "36449264",
+      "source_url": "https://movie.douban.com/subject/36449264/",
+      "status": "active",
+      "title": "一个夜晚与三个夏天",
+      "updated_at": "2026-09-29T06:53:44.917736+00:00"
     },
     {
       "countries": [
