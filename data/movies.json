@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T06:53:44.917736+00:00",
+  "generated_at": "2026-09-30T06:42:35.337366+00:00",
   "movies": [
     {
       "countries": [
@@ -1610,7 +1610,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-09-03",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-09-30",
       "source_id": "36828393",
       "source_url": "https://movie.douban.com/subject/36828393/",
@@ -1914,6 +1914,26 @@
       "status": "active",
       "title": "象行记",
       "updated_at": "2026-07-28T12:40:34.898177+00:00"
+    },
+    {
+      "countries": [
+        "美国"
+      ],
+      "first_seen_at": "2026-09-30",
+      "genres": [
+        "动作",
+        "犯罪",
+        "惊悚"
+      ],
+      "history": [],
+      "last_seen_at": "2026-09-30",
+      "missing_runs": 0,
+      "release_date": "2026-10-30",
+      "source_id": "25798131",
+      "source_url": "https://movie.douban.com/subject/25798131/",
+      "status": "active",
+      "title": "疾速追杀",
+      "updated_at": "2026-09-30T06:42:35.337366+00:00"
     },
     {
       "countries": [
