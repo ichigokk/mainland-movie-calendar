@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T06:59:52.076895+00:00",
+  "generated_at": "2026-10-04T06:49:38.235266+00:00",
   "movies": [
     {
       "countries": [
@@ -1843,6 +1843,15 @@
               ]
             }
           }
+        },
+        {
+          "at": "2026-10-04T06:49:38.235266+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
         }
       ],
       "last_seen_at": "2026-09-22",
@@ -1850,9 +1859,9 @@
       "release_date": "2026-10-03",
       "source_id": "37403222",
       "source_url": "https://movie.douban.com/subject/37403222/",
-      "status": "active",
+      "status": "released",
       "title": "重生2",
-      "updated_at": "2026-09-22T06:12:45.048951+00:00"
+      "updated_at": "2026-10-04T06:49:38.235266+00:00"
     },
     {
       "countries": [
