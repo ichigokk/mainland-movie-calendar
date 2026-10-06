@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:02:01.980468+00:00",
+  "generated_at": "2026-10-06T07:33:58.716339+00:00",
   "movies": [
     {
       "countries": [
@@ -1888,6 +1888,15 @@
               ]
             }
           }
+        },
+        {
+          "at": "2026-10-06T07:33:58.716339+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
         }
       ],
       "last_seen_at": "2026-09-29",
@@ -1895,9 +1904,9 @@
       "release_date": "2026-10-05",
       "source_id": "37068446",
       "source_url": "https://movie.douban.com/subject/37068446/",
-      "status": "active",
+      "status": "released",
       "title": "生化危机：爆发夜",
-      "updated_at": "2026-09-29T06:53:44.917736+00:00"
+      "updated_at": "2026-10-06T07:33:58.716339+00:00"
     },
     {
       "countries": [
