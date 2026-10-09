@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T07:33:58.716339+00:00",
+  "generated_at": "2026-10-09T07:22:56.369063+00:00",
   "movies": [
     {
       "countries": [
@@ -1950,6 +1950,25 @@
       "countries": [
         "中国大陆"
       ],
+      "first_seen_at": "2026-10-09",
+      "genres": [
+        "历史",
+        "动画"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-09",
+      "missing_runs": 0,
+      "release_date": "2026-10-17",
+      "source_id": "36752981",
+      "source_url": "https://movie.douban.com/subject/36752981/",
+      "status": "active",
+      "title": "三国第一部：争洛阳",
+      "updated_at": "2026-10-09T07:22:56.369063+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
       "first_seen_at": "2026-09-27",
       "genres": [
         "科幻",
@@ -2001,6 +2020,25 @@
       "status": "active",
       "title": "象行记",
       "updated_at": "2026-07-28T12:40:34.898177+00:00"
+    },
+    {
+      "countries": [
+        "英国"
+      ],
+      "first_seen_at": "2026-10-09",
+      "genres": [
+        "喜剧",
+        "动画"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-09",
+      "missing_runs": 0,
+      "release_date": "2026-10-24",
+      "source_id": "37344902",
+      "source_url": "https://movie.douban.com/subject/37344902/",
+      "status": "active",
+      "title": "小羊肖恩3：怪兽来袭",
+      "updated_at": "2026-10-09T07:22:56.369063+00:00"
     },
     {
       "countries": [
