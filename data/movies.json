@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T07:22:56.369063+00:00",
+  "generated_at": "2026-10-10T07:06:07.149082+00:00",
   "movies": [
     {
       "countries": [
@@ -2059,6 +2059,26 @@
       "status": "active",
       "title": "疾速追杀",
       "updated_at": "2026-09-30T06:42:35.337366+00:00"
+    },
+    {
+      "countries": [
+        "美国"
+      ],
+      "first_seen_at": "2026-10-10",
+      "genres": [
+        "喜剧",
+        "动画",
+        "奇幻"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-10",
+      "missing_runs": 0,
+      "release_date": "2026-11-06",
+      "source_id": "23774856",
+      "source_url": "https://movie.douban.com/subject/23774856/",
+      "status": "active",
+      "title": "戴帽子的猫",
+      "updated_at": "2026-10-10T07:06:07.149082+00:00"
     },
     {
       "countries": [
