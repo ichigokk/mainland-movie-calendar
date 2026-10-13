@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T07:20:41.226171+00:00",
+  "generated_at": "2026-10-13T07:41:51.883187+00:00",
   "movies": [
     {
       "countries": [
@@ -1918,7 +1918,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-09-29",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-10-13",
       "source_id": "36449264",
       "source_url": "https://movie.douban.com/subject/36449264/",
@@ -2013,7 +2013,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-10-23",
       "source_id": "36464801",
       "source_url": "https://movie.douban.com/subject/36464801/",
@@ -2059,6 +2059,24 @@
       "status": "active",
       "title": "疾速追杀",
       "updated_at": "2026-09-30T06:42:35.337366+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-10-13",
+      "genres": [
+        "惊悚"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-13",
+      "missing_runs": 0,
+      "release_date": "2026-10-31",
+      "source_id": "37047880",
+      "source_url": "https://movie.douban.com/subject/37047880/",
+      "status": "active",
+      "title": "民宿惊魂",
+      "updated_at": "2026-10-13T07:41:51.883187+00:00"
     },
     {
       "countries": [
@@ -2177,6 +2195,25 @@
       "status": "active",
       "title": "流浪地球3(上)",
       "updated_at": "2026-07-28T12:40:34.898177+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-10-13",
+      "genres": [
+        "剧情",
+        "纪录片"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-13",
+      "missing_runs": 0,
+      "release_date": "2027-03-08",
+      "source_id": "38902954",
+      "source_url": "https://movie.douban.com/subject/38902954/",
+      "status": "active",
+      "title": "河的女儿",
+      "updated_at": "2026-10-13T07:41:51.883187+00:00"
     }
   ],
   "schema_version": 1,
