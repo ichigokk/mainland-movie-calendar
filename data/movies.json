@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T07:41:51.883187+00:00",
+  "generated_at": "2026-10-14T06:07:59.496185+00:00",
   "movies": [
     {
       "countries": [
@@ -1916,15 +1916,25 @@
       "genres": [
         "剧情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-10-14T06:07:59.496185+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-09-29",
       "missing_runs": 1,
       "release_date": "2026-10-13",
       "source_id": "36449264",
       "source_url": "https://movie.douban.com/subject/36449264/",
-      "status": "active",
+      "status": "released",
       "title": "一个夜晚与三个夏天",
-      "updated_at": "2026-09-29T06:53:44.917736+00:00"
+      "updated_at": "2026-10-14T06:07:59.496185+00:00"
     },
     {
       "countries": [
@@ -2013,7 +2023,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 1,
+      "missing_runs": 2,
       "release_date": "2026-10-23",
       "source_id": "36464801",
       "source_url": "https://movie.douban.com/subject/36464801/",
@@ -2066,17 +2076,35 @@
       ],
       "first_seen_at": "2026-10-13",
       "genres": [
-        "惊悚"
+        "悬疑",
+        "惊悚",
+        "恐怖"
       ],
-      "history": [],
-      "last_seen_at": "2026-10-13",
+      "history": [
+        {
+          "at": "2026-10-14T06:07:59.496185+00:00",
+          "changes": {
+            "genres": {
+              "from": [
+                "惊悚"
+              ],
+              "to": [
+                "悬疑",
+                "惊悚",
+                "恐怖"
+              ]
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-10-14",
       "missing_runs": 0,
       "release_date": "2026-10-31",
       "source_id": "37047880",
       "source_url": "https://movie.douban.com/subject/37047880/",
       "status": "active",
       "title": "民宿惊魂",
-      "updated_at": "2026-10-13T07:41:51.883187+00:00"
+      "updated_at": "2026-10-14T06:07:59.496185+00:00"
     },
     {
       "countries": [
