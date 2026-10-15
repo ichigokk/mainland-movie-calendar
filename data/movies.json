@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:07:59.496185+00:00",
+  "generated_at": "2026-10-15T05:54:05.939492+00:00",
   "movies": [
     {
       "countries": [
@@ -2021,15 +2021,25 @@
       "genres": [
         "纪录片"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-10-15T05:54:05.939492+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "withdrawn"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 2,
+      "missing_runs": 3,
       "release_date": "2026-10-23",
       "source_id": "36464801",
       "source_url": "https://movie.douban.com/subject/36464801/",
-      "status": "active",
+      "status": "withdrawn",
       "title": "象行记",
-      "updated_at": "2026-07-28T12:40:34.898177+00:00"
+      "updated_at": "2026-10-15T05:54:05.939492+00:00"
     },
     {
       "countries": [
@@ -2049,6 +2059,26 @@
       "status": "active",
       "title": "小羊肖恩3：怪兽来袭",
       "updated_at": "2026-10-09T07:22:56.369063+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-10-15",
+      "genres": [
+        "剧情",
+        "动画",
+        "奇幻"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-15",
+      "missing_runs": 0,
+      "release_date": "2026-10-24",
+      "source_id": "36624248",
+      "source_url": "https://movie.douban.com/subject/36624248/",
+      "status": "active",
+      "title": "落凡尘",
+      "updated_at": "2026-10-15T05:54:05.939492+00:00"
     },
     {
       "countries": [
