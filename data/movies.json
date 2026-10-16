@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T05:54:05.939492+00:00",
+  "generated_at": "2026-10-16T05:51:28.404458+00:00",
   "movies": [
     {
       "countries": [
@@ -1948,7 +1948,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-09-15",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-10-16",
       "source_id": "36806762",
       "source_url": "https://movie.douban.com/subject/36806762/",
@@ -1996,6 +1996,26 @@
     },
     {
       "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-10-16",
+      "genres": [
+        "剧情",
+        "犯罪",
+        "惊悚"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-16",
+      "missing_runs": 0,
+      "release_date": "2026-10-23",
+      "source_id": "37088929",
+      "source_url": "https://movie.douban.com/subject/37088929/",
+      "status": "active",
+      "title": "愤怒的老虎",
+      "updated_at": "2026-10-16T05:51:28.404458+00:00"
+    },
+    {
+      "countries": [
         "埃及"
       ],
       "first_seen_at": "2026-09-15",
@@ -2033,7 +2053,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 3,
+      "missing_runs": 4,
       "release_date": "2026-10-23",
       "source_id": "36464801",
       "source_url": "https://movie.douban.com/subject/36464801/",
@@ -2099,6 +2119,26 @@
       "status": "active",
       "title": "疾速追杀",
       "updated_at": "2026-09-30T06:42:35.337366+00:00"
+    },
+    {
+      "countries": [
+        "中国香港"
+      ],
+      "first_seen_at": "2026-10-16",
+      "genres": [
+        "动作",
+        "爱情",
+        "武侠"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-16",
+      "missing_runs": 0,
+      "release_date": "2026-10-30",
+      "source_id": "1294417",
+      "source_url": "https://movie.douban.com/subject/1294417/",
+      "status": "active",
+      "title": "笑傲江湖2：东方不败 笑傲江湖II東方不敗",
+      "updated_at": "2026-10-16T05:51:28.404458+00:00"
     },
     {
       "countries": [
