@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T05:51:28.404458+00:00",
+  "generated_at": "2026-10-17T05:35:46.370715+00:00",
   "movies": [
     {
       "countries": [
@@ -1946,15 +1946,25 @@
         "惊悚",
         "冒险"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-10-17T05:35:46.370715+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-09-15",
       "missing_runs": 1,
       "release_date": "2026-10-16",
       "source_id": "36806762",
       "source_url": "https://movie.douban.com/subject/36806762/",
-      "status": "active",
+      "status": "released",
       "title": "鲸口脱险",
-      "updated_at": "2026-09-15T06:09:58.893907+00:00"
+      "updated_at": "2026-10-17T05:35:46.370715+00:00"
     },
     {
       "countries": [
@@ -1967,7 +1977,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-10-09",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-10-17",
       "source_id": "36752981",
       "source_url": "https://movie.douban.com/subject/36752981/",
@@ -2053,7 +2063,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 4,
+      "missing_runs": 5,
       "release_date": "2026-10-23",
       "source_id": "36464801",
       "source_url": "https://movie.douban.com/subject/36464801/",
@@ -2195,6 +2205,24 @@
       "status": "active",
       "title": "戴帽子的猫",
       "updated_at": "2026-10-10T07:06:07.149082+00:00"
+    },
+    {
+      "countries": [
+        "中国香港"
+      ],
+      "first_seen_at": "2026-10-17",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-17",
+      "missing_runs": 0,
+      "release_date": "2026-11-06",
+      "source_id": "35299923",
+      "source_url": "https://movie.douban.com/subject/35299923/",
+      "status": "active",
+      "title": "白衣逆行者",
+      "updated_at": "2026-10-17T05:35:46.370715+00:00"
     },
     {
       "countries": [
