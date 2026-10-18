@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T05:35:46.370715+00:00",
+  "generated_at": "2026-10-18T05:53:07.301579+00:00",
   "movies": [
     {
       "countries": [
@@ -1975,15 +1975,25 @@
         "历史",
         "动画"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-10-18T05:53:07.301579+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-09",
       "missing_runs": 1,
       "release_date": "2026-10-17",
       "source_id": "36752981",
       "source_url": "https://movie.douban.com/subject/36752981/",
-      "status": "active",
+      "status": "released",
       "title": "三国第一部：争洛阳",
-      "updated_at": "2026-10-09T07:22:56.369063+00:00"
+      "updated_at": "2026-10-18T05:53:07.301579+00:00"
     },
     {
       "countries": [
@@ -2063,7 +2073,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 5,
+      "missing_runs": 6,
       "release_date": "2026-10-23",
       "source_id": "36464801",
       "source_url": "https://movie.douban.com/subject/36464801/",
