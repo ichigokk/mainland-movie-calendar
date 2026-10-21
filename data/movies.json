@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T06:00:07.329456+00:00",
+  "generated_at": "2026-10-21T06:01:09.938094+00:00",
   "movies": [
     {
       "countries": [
@@ -2073,7 +2073,7 @@
         }
       ],
       "last_seen_at": "2026-07-28",
-      "missing_runs": 8,
+      "missing_runs": 9,
       "release_date": "2026-10-23",
       "source_id": "36464801",
       "source_url": "https://movie.douban.com/subject/36464801/",
@@ -2309,6 +2309,26 @@
       "status": "active",
       "title": "复仇者联盟5",
       "updated_at": "2026-10-12T07:20:41.226171+00:00"
+    },
+    {
+      "countries": [
+        "美国"
+      ],
+      "first_seen_at": "2026-10-21",
+      "genres": [
+        "剧情",
+        "动作",
+        "科幻"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-21",
+      "missing_runs": 0,
+      "release_date": "2026-12-31",
+      "source_id": "36787273",
+      "source_url": "https://movie.douban.com/subject/36787273/",
+      "status": "active",
+      "title": "沙丘3",
+      "updated_at": "2026-10-21T06:01:09.938094+00:00"
     },
     {
       "countries": [
