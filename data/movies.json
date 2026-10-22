@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T06:01:09.938094+00:00",
+  "generated_at": "2026-10-22T06:06:56.355548+00:00",
   "movies": [
     {
       "countries": [
@@ -2070,16 +2070,25 @@
               "to": "withdrawn"
             }
           }
+        },
+        {
+          "at": "2026-10-22T06:06:56.355548+00:00",
+          "changes": {
+            "status": {
+              "from": "withdrawn",
+              "to": "active"
+            }
+          }
         }
       ],
-      "last_seen_at": "2026-07-28",
-      "missing_runs": 9,
+      "last_seen_at": "2026-10-22",
+      "missing_runs": 0,
       "release_date": "2026-10-23",
       "source_id": "36464801",
       "source_url": "https://movie.douban.com/subject/36464801/",
-      "status": "withdrawn",
+      "status": "active",
       "title": "象行记",
-      "updated_at": "2026-10-15T05:54:05.939492+00:00"
+      "updated_at": "2026-10-22T06:06:56.355548+00:00"
     },
     {
       "countries": [
@@ -2164,6 +2173,26 @@
       "countries": [
         "中国大陆"
       ],
+      "first_seen_at": "2026-10-22",
+      "genres": [
+        "悬疑",
+        "惊悚",
+        "恐怖"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-22",
+      "missing_runs": 0,
+      "release_date": "2026-10-30",
+      "source_id": "37560050",
+      "source_url": "https://movie.douban.com/subject/37560050/",
+      "status": "active",
+      "title": "阴阳路惊魂",
+      "updated_at": "2026-10-22T06:06:56.355548+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
       "first_seen_at": "2026-10-13",
       "genres": [
         "悬疑",
@@ -2215,6 +2244,26 @@
       "status": "active",
       "title": "戴帽子的猫",
       "updated_at": "2026-10-10T07:06:07.149082+00:00"
+    },
+    {
+      "countries": [
+        "美国",
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-10-22",
+      "genres": [
+        "纪录片",
+        "运动"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-22",
+      "missing_runs": 0,
+      "release_date": "2026-11-06",
+      "source_id": "37822528",
+      "source_url": "https://movie.douban.com/subject/37822528/",
+      "status": "active",
+      "title": "珠穆朗玛：云中彼岸",
+      "updated_at": "2026-10-22T06:06:56.355548+00:00"
     },
     {
       "countries": [
