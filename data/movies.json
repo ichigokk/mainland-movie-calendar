@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:06:56.355548+00:00",
+  "generated_at": "2026-10-23T06:02:13.874425+00:00",
   "movies": [
     {
       "countries": [
@@ -2006,7 +2006,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-09-27",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-10-23",
       "source_id": "37509917",
       "source_url": "https://movie.douban.com/subject/37509917/",
@@ -2026,7 +2026,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-10-16",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-10-23",
       "source_id": "37088929",
       "source_url": "https://movie.douban.com/subject/37088929/",
@@ -2044,7 +2044,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-09-15",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-10-23",
       "source_id": "37322586",
       "source_url": "https://movie.douban.com/subject/37322586/",
@@ -2082,7 +2082,7 @@
         }
       ],
       "last_seen_at": "2026-10-22",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-10-23",
       "source_id": "36464801",
       "source_url": "https://movie.douban.com/subject/36464801/",
@@ -2128,6 +2128,24 @@
       "status": "active",
       "title": "落凡尘",
       "updated_at": "2026-10-15T05:54:05.939492+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-10-23",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-23",
+      "missing_runs": 0,
+      "release_date": "2026-10-24",
+      "source_id": "37450049",
+      "source_url": "https://movie.douban.com/subject/37450049/",
+      "status": "active",
+      "title": "非凡的你",
+      "updated_at": "2026-10-23T06:02:13.874425+00:00"
     },
     {
       "countries": [
@@ -2338,6 +2356,26 @@
       "status": "active",
       "title": "试探",
       "updated_at": "2026-09-25T06:09:28.533943+00:00"
+    },
+    {
+      "countries": [
+        "英国",
+        "法国"
+      ],
+      "first_seen_at": "2026-10-23",
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-23",
+      "missing_runs": 0,
+      "release_date": "2026-11-28",
+      "source_id": "36313679",
+      "source_url": "https://movie.douban.com/subject/36313679/",
+      "status": "active",
+      "title": "时间里的爱人",
+      "updated_at": "2026-10-23T06:02:13.874425+00:00"
     },
     {
       "countries": [
