@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T06:02:13.874425+00:00",
+  "generated_at": "2026-10-24T05:52:23.978654+00:00",
   "movies": [
     {
       "countries": [
@@ -2004,15 +2004,25 @@
         "科幻",
         "动画"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-10-24T05:52:23.978654+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-09-27",
       "missing_runs": 1,
       "release_date": "2026-10-23",
       "source_id": "37509917",
       "source_url": "https://movie.douban.com/subject/37509917/",
-      "status": "active",
+      "status": "released",
       "title": "三星堆：未来往事",
-      "updated_at": "2026-09-27T06:36:13.952412+00:00"
+      "updated_at": "2026-10-24T05:52:23.978654+00:00"
     },
     {
       "countries": [
@@ -2024,15 +2034,25 @@
         "犯罪",
         "惊悚"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-10-24T05:52:23.978654+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-16",
       "missing_runs": 1,
       "release_date": "2026-10-23",
       "source_id": "37088929",
       "source_url": "https://movie.douban.com/subject/37088929/",
-      "status": "active",
+      "status": "released",
       "title": "愤怒的老虎",
-      "updated_at": "2026-10-16T05:51:28.404458+00:00"
+      "updated_at": "2026-10-24T05:52:23.978654+00:00"
     },
     {
       "countries": [
@@ -2042,15 +2062,25 @@
       "genres": [
         "剧情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-10-24T05:52:23.978654+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-09-15",
       "missing_runs": 1,
       "release_date": "2026-10-23",
       "source_id": "37322586",
       "source_url": "https://movie.douban.com/subject/37322586/",
-      "status": "active",
+      "status": "released",
       "title": "生日快乐 هابي بيرث داي",
-      "updated_at": "2026-09-15T06:09:58.893907+00:00"
+      "updated_at": "2026-10-24T05:52:23.978654+00:00"
     },
     {
       "countries": [
@@ -2079,6 +2109,15 @@
               "to": "active"
             }
           }
+        },
+        {
+          "at": "2026-10-24T05:52:23.978654+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
         }
       ],
       "last_seen_at": "2026-10-22",
@@ -2086,9 +2125,9 @@
       "release_date": "2026-10-23",
       "source_id": "36464801",
       "source_url": "https://movie.douban.com/subject/36464801/",
-      "status": "active",
+      "status": "released",
       "title": "象行记",
-      "updated_at": "2026-10-22T06:06:56.355548+00:00"
+      "updated_at": "2026-10-24T05:52:23.978654+00:00"
     },
     {
       "countries": [
@@ -2101,7 +2140,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-10-09",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-10-24",
       "source_id": "37344902",
       "source_url": "https://movie.douban.com/subject/37344902/",
@@ -2121,7 +2160,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-10-15",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-10-24",
       "source_id": "36624248",
       "source_url": "https://movie.douban.com/subject/36624248/",
@@ -2139,7 +2178,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-10-23",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-10-24",
       "source_id": "37450049",
       "source_url": "https://movie.douban.com/subject/37450049/",
