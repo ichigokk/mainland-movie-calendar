@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T05:52:23.978654+00:00",
+  "generated_at": "2026-10-25T06:07:03.910617+00:00",
   "movies": [
     {
       "countries": [
@@ -2138,15 +2138,25 @@
         "喜剧",
         "动画"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-10-25T06:07:03.910617+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-09",
       "missing_runs": 1,
       "release_date": "2026-10-24",
       "source_id": "37344902",
       "source_url": "https://movie.douban.com/subject/37344902/",
-      "status": "active",
+      "status": "released",
       "title": "小羊肖恩3：怪兽来袭",
-      "updated_at": "2026-10-09T07:22:56.369063+00:00"
+      "updated_at": "2026-10-25T06:07:03.910617+00:00"
     },
     {
       "countries": [
@@ -2158,15 +2168,25 @@
         "动画",
         "奇幻"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-10-25T06:07:03.910617+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-15",
       "missing_runs": 1,
       "release_date": "2026-10-24",
       "source_id": "36624248",
       "source_url": "https://movie.douban.com/subject/36624248/",
-      "status": "active",
+      "status": "released",
       "title": "落凡尘",
-      "updated_at": "2026-10-15T05:54:05.939492+00:00"
+      "updated_at": "2026-10-25T06:07:03.910617+00:00"
     },
     {
       "countries": [
@@ -2176,15 +2196,25 @@
       "genres": [
         "剧情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-10-25T06:07:03.910617+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-23",
       "missing_runs": 1,
       "release_date": "2026-10-24",
       "source_id": "37450049",
       "source_url": "https://movie.douban.com/subject/37450049/",
-      "status": "active",
+      "status": "released",
       "title": "非凡的你",
-      "updated_at": "2026-10-23T06:02:13.874425+00:00"
+      "updated_at": "2026-10-25T06:07:03.910617+00:00"
     },
     {
       "countries": [
