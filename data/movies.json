@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:07:03.910617+00:00",
+  "generated_at": "2026-10-26T06:12:21.483134+00:00",
   "movies": [
     {
       "countries": [
@@ -2416,15 +2416,25 @@
         "悬疑",
         "惊悚"
       ],
-      "history": [],
-      "last_seen_at": "2026-09-25",
+      "history": [
+        {
+          "at": "2026-10-26T06:12:21.483134+00:00",
+          "changes": {
+            "release_date": {
+              "from": "2026-11-20",
+              "to": "2026-11-21"
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-10-26",
       "missing_runs": 0,
-      "release_date": "2026-11-20",
+      "release_date": "2026-11-21",
       "source_id": "35068655",
       "source_url": "https://movie.douban.com/subject/35068655/",
       "status": "active",
       "title": "试探",
-      "updated_at": "2026-09-25T06:09:28.533943+00:00"
+      "updated_at": "2026-10-26T06:12:21.483134+00:00"
     },
     {
       "countries": [
