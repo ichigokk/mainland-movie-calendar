@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T06:12:21.483134+00:00",
+  "generated_at": "2026-10-27T06:15:44.572773+00:00",
   "movies": [
     {
       "countries": [
@@ -2405,6 +2405,24 @@
       "status": "active",
       "title": "我们仅有一次的人生",
       "updated_at": "2026-10-20T06:00:07.329456+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-10-27",
+      "genres": [
+        "纪录片"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-27",
+      "missing_runs": 0,
+      "release_date": "2026-11-13",
+      "source_id": "37388286",
+      "source_url": "https://movie.douban.com/subject/37388286/",
+      "status": "active",
+      "title": "夫妻一场",
+      "updated_at": "2026-10-27T06:15:44.572773+00:00"
     },
     {
       "countries": [
