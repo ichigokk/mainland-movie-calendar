@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:15:44.572773+00:00",
+  "generated_at": "2026-10-28T06:51:11.459558+00:00",
   "movies": [
     {
       "countries": [
@@ -2387,6 +2387,25 @@
       "status": "active",
       "title": "乡归",
       "updated_at": "2026-10-20T06:00:07.329456+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-10-28",
+      "genres": [
+        "犯罪",
+        "悬疑"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-28",
+      "missing_runs": 0,
+      "release_date": "2026-11-07",
+      "source_id": "37295792",
+      "source_url": "https://movie.douban.com/subject/37295792/",
+      "status": "active",
+      "title": "心迷宫之三重罪",
+      "updated_at": "2026-10-28T06:51:11.459558+00:00"
     },
     {
       "countries": [
