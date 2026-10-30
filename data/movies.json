@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T07:03:40.173479+00:00",
+  "generated_at": "2026-10-30T07:04:50.220462+00:00",
   "movies": [
     {
       "countries": [
@@ -543,34 +543,6 @@
       "status": "released",
       "title": "大秦文公",
       "updated_at": "2026-08-22T02:20:42.315568+00:00"
-    },
-    {
-      "countries": [
-        "中国大陆"
-      ],
-      "first_seen_at": "2026-07-28",
-      "genres": [
-        "剧情"
-      ],
-      "history": [
-        {
-          "at": "2026-08-01T04:34:55.329491+00:00",
-          "changes": {
-            "status": {
-              "from": "active",
-              "to": "withdrawn"
-            }
-          }
-        }
-      ],
-      "last_seen_at": "2026-07-28",
-      "missing_runs": 22,
-      "release_date": "2026-08-21",
-      "source_id": "37659649",
-      "source_url": "https://movie.douban.com/subject/37659649/",
-      "status": "withdrawn",
-      "title": "手捧繁星",
-      "updated_at": "2026-08-01T04:34:55.329491+00:00"
     },
     {
       "countries": [
@@ -2228,7 +2200,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-09-30",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-10-30",
       "source_id": "25798131",
       "source_url": "https://movie.douban.com/subject/25798131/",
@@ -2248,7 +2220,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-10-16",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-10-30",
       "source_id": "1294417",
       "source_url": "https://movie.douban.com/subject/1294417/",
@@ -2268,7 +2240,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-10-22",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-10-30",
       "source_id": "37560050",
       "source_url": "https://movie.douban.com/subject/37560050/",
@@ -2314,6 +2286,25 @@
     },
     {
       "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-10-30",
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-30",
+      "missing_runs": 0,
+      "release_date": "2026-11-03",
+      "source_id": "37516928",
+      "source_url": "https://movie.douban.com/subject/37516928/",
+      "status": "active",
+      "title": "梦寻苏毗女儿国",
+      "updated_at": "2026-10-30T07:04:50.220462+00:00"
+    },
+    {
+      "countries": [
         "美国"
       ],
       "first_seen_at": "2026-10-10",
@@ -2331,6 +2322,47 @@
       "status": "active",
       "title": "戴帽子的猫",
       "updated_at": "2026-10-10T07:06:07.149082+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-07-28",
+      "genres": [
+        "剧情"
+      ],
+      "history": [
+        {
+          "at": "2026-08-01T04:34:55.329491+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "withdrawn"
+            }
+          }
+        },
+        {
+          "at": "2026-10-30T07:04:50.220462+00:00",
+          "changes": {
+            "release_date": {
+              "from": "2026-08-21",
+              "to": "2026-11-06"
+            },
+            "status": {
+              "from": "withdrawn",
+              "to": "active"
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-10-30",
+      "missing_runs": 0,
+      "release_date": "2026-11-06",
+      "source_id": "37659649",
+      "source_url": "https://movie.douban.com/subject/37659649/",
+      "status": "active",
+      "title": "手捧繁星",
+      "updated_at": "2026-10-30T07:04:50.220462+00:00"
     },
     {
       "countries": [
@@ -2464,6 +2496,26 @@
     },
     {
       "countries": [
+        "中国台湾"
+      ],
+      "first_seen_at": "2026-10-30",
+      "genres": [
+        "剧情",
+        "武侠",
+        "古装"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-30",
+      "missing_runs": 0,
+      "release_date": "2026-11-20",
+      "source_id": "35622269",
+      "source_url": "https://movie.douban.com/subject/35622269/",
+      "status": "active",
+      "title": "霹雳英雄：素还真 素還真",
+      "updated_at": "2026-10-30T07:04:50.220462+00:00"
+    },
+    {
+      "countries": [
         "中国大陆"
       ],
       "first_seen_at": "2026-09-25",
@@ -2491,6 +2543,26 @@
       "status": "active",
       "title": "试探",
       "updated_at": "2026-10-26T06:12:21.483134+00:00"
+    },
+    {
+      "countries": [
+        "美国"
+      ],
+      "first_seen_at": "2026-10-30",
+      "genres": [
+        "喜剧",
+        "动画",
+        "奇幻"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-30",
+      "missing_runs": 0,
+      "release_date": "2026-11-27",
+      "source_id": "37503053",
+      "source_url": "https://movie.douban.com/subject/37503053/",
+      "status": "active",
+      "title": "魔法秘境",
+      "updated_at": "2026-10-30T07:04:50.220462+00:00"
     },
     {
       "countries": [
