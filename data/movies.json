@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T07:04:50.220462+00:00",
+  "generated_at": "2026-10-31T06:59:26.559901+00:00",
   "movies": [
     {
       "countries": [
@@ -2198,15 +2198,25 @@
         "犯罪",
         "惊悚"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-10-31T06:59:26.559901+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-09-30",
       "missing_runs": 1,
       "release_date": "2026-10-30",
       "source_id": "25798131",
       "source_url": "https://movie.douban.com/subject/25798131/",
-      "status": "active",
+      "status": "released",
       "title": "疾速追杀",
-      "updated_at": "2026-09-30T06:42:35.337366+00:00"
+      "updated_at": "2026-10-31T06:59:26.559901+00:00"
     },
     {
       "countries": [
@@ -2218,15 +2228,25 @@
         "爱情",
         "武侠"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-10-31T06:59:26.559901+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-16",
       "missing_runs": 1,
       "release_date": "2026-10-30",
       "source_id": "1294417",
       "source_url": "https://movie.douban.com/subject/1294417/",
-      "status": "active",
+      "status": "released",
       "title": "笑傲江湖2：东方不败 笑傲江湖II東方不敗",
-      "updated_at": "2026-10-16T05:51:28.404458+00:00"
+      "updated_at": "2026-10-31T06:59:26.559901+00:00"
     },
     {
       "countries": [
@@ -2238,15 +2258,25 @@
         "惊悚",
         "恐怖"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-10-31T06:59:26.559901+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-22",
       "missing_runs": 1,
       "release_date": "2026-10-30",
       "source_id": "37560050",
       "source_url": "https://movie.douban.com/subject/37560050/",
-      "status": "active",
+      "status": "released",
       "title": "阴阳路惊魂",
-      "updated_at": "2026-10-22T06:06:56.355548+00:00"
+      "updated_at": "2026-10-31T06:59:26.559901+00:00"
     },
     {
       "countries": [
@@ -2276,7 +2306,7 @@
         }
       ],
       "last_seen_at": "2026-10-14",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-10-31",
       "source_id": "37047880",
       "source_url": "https://movie.douban.com/subject/37047880/",
@@ -2302,6 +2332,24 @@
       "status": "active",
       "title": "梦寻苏毗女儿国",
       "updated_at": "2026-10-30T07:04:50.220462+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-10-31",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-10-31",
+      "missing_runs": 0,
+      "release_date": "2026-11-06",
+      "source_id": "37659565",
+      "source_url": "https://movie.douban.com/subject/37659565/",
+      "status": "active",
+      "title": "感恩号·大篷车",
+      "updated_at": "2026-10-31T06:59:26.559901+00:00"
     },
     {
       "countries": [
@@ -2520,7 +2568,6 @@
       ],
       "first_seen_at": "2026-09-25",
       "genres": [
-        "剧情",
         "悬疑",
         "惊悚"
       ],
@@ -2533,16 +2580,32 @@
               "to": "2026-11-21"
             }
           }
+        },
+        {
+          "at": "2026-10-31T06:59:26.559901+00:00",
+          "changes": {
+            "genres": {
+              "from": [
+                "剧情",
+                "悬疑",
+                "惊悚"
+              ],
+              "to": [
+                "悬疑",
+                "惊悚"
+              ]
+            }
+          }
         }
       ],
-      "last_seen_at": "2026-10-26",
+      "last_seen_at": "2026-10-31",
       "missing_runs": 0,
       "release_date": "2026-11-21",
       "source_id": "35068655",
       "source_url": "https://movie.douban.com/subject/35068655/",
       "status": "active",
       "title": "试探",
-      "updated_at": "2026-10-26T06:12:21.483134+00:00"
+      "updated_at": "2026-10-31T06:59:26.559901+00:00"
     },
     {
       "countries": [
