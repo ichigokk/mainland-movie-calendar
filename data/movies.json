@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T06:59:26.559901+00:00",
+  "generated_at": "2026-11-01T07:30:56.303143+00:00",
   "movies": [
     {
       "countries": [
@@ -2303,6 +2303,15 @@
               ]
             }
           }
+        },
+        {
+          "at": "2026-11-01T07:30:56.303143+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
         }
       ],
       "last_seen_at": "2026-10-14",
@@ -2310,9 +2319,9 @@
       "release_date": "2026-10-31",
       "source_id": "37047880",
       "source_url": "https://movie.douban.com/subject/37047880/",
-      "status": "active",
+      "status": "released",
       "title": "民宿惊魂",
-      "updated_at": "2026-10-14T06:07:59.496185+00:00"
+      "updated_at": "2026-11-01T07:30:56.303143+00:00"
     },
     {
       "countries": [
@@ -2541,6 +2550,24 @@
       "status": "active",
       "title": "夫妻一场",
       "updated_at": "2026-10-27T06:15:44.572773+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-11-01",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-01",
+      "missing_runs": 0,
+      "release_date": "2026-11-14",
+      "source_id": "39015682",
+      "source_url": "https://movie.douban.com/subject/39015682/",
+      "status": "active",
+      "title": "向阳青春",
+      "updated_at": "2026-11-01T07:30:56.303143+00:00"
     },
     {
       "countries": [
