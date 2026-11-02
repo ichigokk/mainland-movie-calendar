@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T07:30:56.303143+00:00",
+  "generated_at": "2026-11-02T07:40:23.011658+00:00",
   "movies": [
     {
       "countries": [
@@ -2346,6 +2346,24 @@
       "countries": [
         "中国大陆"
       ],
+      "first_seen_at": "2026-11-02",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-02",
+      "missing_runs": 0,
+      "release_date": "2026-11-06",
+      "source_id": "36641112",
+      "source_url": "https://movie.douban.com/subject/36641112/",
+      "status": "active",
+      "title": "一朵山花别样红",
+      "updated_at": "2026-11-02T07:40:23.011658+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
       "first_seen_at": "2026-10-31",
       "genres": [
         "剧情"
@@ -2537,6 +2555,24 @@
       "countries": [
         "中国大陆"
       ],
+      "first_seen_at": "2026-11-02",
+      "genres": [
+        "纪录片"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-02",
+      "missing_runs": 0,
+      "release_date": "2026-11-10",
+      "source_id": "36154923",
+      "source_url": "https://movie.douban.com/subject/36154923/",
+      "status": "active",
+      "title": "爷爷奶奶那些事",
+      "updated_at": "2026-11-02T07:40:23.011658+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
       "first_seen_at": "2026-10-27",
       "genres": [
         "纪录片"
@@ -2550,6 +2586,25 @@
       "status": "active",
       "title": "夫妻一场",
       "updated_at": "2026-10-27T06:15:44.572773+00:00"
+    },
+    {
+      "countries": [
+        "意大利"
+      ],
+      "first_seen_at": "2026-11-02",
+      "genres": [
+        "剧情",
+        "音乐"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-02",
+      "missing_runs": 0,
+      "release_date": "2026-11-13",
+      "source_id": "1292001",
+      "source_url": "https://movie.douban.com/subject/1292001/",
+      "status": "active",
+      "title": "海上钢琴师",
+      "updated_at": "2026-11-02T07:40:23.011658+00:00"
     },
     {
       "countries": [
