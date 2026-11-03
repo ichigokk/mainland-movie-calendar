@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T07:40:23.011658+00:00",
+  "generated_at": "2026-11-03T07:54:34.040891+00:00",
   "movies": [
     {
       "countries": [
@@ -2334,7 +2334,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-10-30",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-03",
       "source_id": "37516928",
       "source_url": "https://movie.douban.com/subject/37516928/",
@@ -2623,6 +2623,25 @@
       "status": "active",
       "title": "向阳青春",
       "updated_at": "2026-11-01T07:30:56.303143+00:00"
+    },
+    {
+      "countries": [
+        "中国台湾",
+        "意大利"
+      ],
+      "first_seen_at": "2026-11-03",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-03",
+      "missing_runs": 0,
+      "release_date": "2026-11-19",
+      "source_id": "35211934",
+      "source_url": "https://movie.douban.com/subject/35211934/",
+      "status": "active",
+      "title": "深度安静 深度安靜",
+      "updated_at": "2026-11-03T07:54:34.040891+00:00"
     },
     {
       "countries": [
