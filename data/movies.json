@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T07:54:34.040891+00:00",
+  "generated_at": "2026-11-04T07:29:18.821678+00:00",
   "movies": [
     {
       "countries": [
@@ -2332,15 +2332,25 @@
         "剧情",
         "爱情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-04T07:29:18.821678+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-30",
       "missing_runs": 1,
       "release_date": "2026-11-03",
       "source_id": "37516928",
       "source_url": "https://movie.douban.com/subject/37516928/",
-      "status": "active",
+      "status": "released",
       "title": "梦寻苏毗女儿国",
-      "updated_at": "2026-10-30T07:04:50.220462+00:00"
+      "updated_at": "2026-11-04T07:29:18.821678+00:00"
     },
     {
       "countries": [
@@ -2476,6 +2486,24 @@
       "status": "active",
       "title": "白衣逆行者",
       "updated_at": "2026-10-17T05:35:46.370715+00:00"
+    },
+    {
+      "countries": [
+        "中国香港"
+      ],
+      "first_seen_at": "2026-11-04",
+      "genres": [
+        "喜剧"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-04",
+      "missing_runs": 0,
+      "release_date": "2026-11-06",
+      "source_id": "37096668",
+      "source_url": "https://movie.douban.com/subject/37096668/",
+      "status": "active",
+      "title": "麻将女王 麻雀女王追男仔",
+      "updated_at": "2026-11-04T07:29:18.821678+00:00"
     },
     {
       "countries": [
