@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T07:54:59.168169+00:00",
+  "generated_at": "2026-11-07T07:09:31.677960+00:00",
   "movies": [
     {
       "countries": [
@@ -2360,15 +2360,25 @@
       "genres": [
         "剧情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-07T07:09:31.677960+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-11-02",
       "missing_runs": 1,
       "release_date": "2026-11-06",
       "source_id": "36641112",
       "source_url": "https://movie.douban.com/subject/36641112/",
-      "status": "active",
+      "status": "released",
       "title": "一朵山花别样红",
-      "updated_at": "2026-11-02T07:40:23.011658+00:00"
+      "updated_at": "2026-11-07T07:09:31.677960+00:00"
     },
     {
       "countries": [
@@ -2378,15 +2388,25 @@
       "genres": [
         "剧情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-07T07:09:31.677960+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-31",
       "missing_runs": 1,
       "release_date": "2026-11-06",
       "source_id": "37659565",
       "source_url": "https://movie.douban.com/subject/37659565/",
-      "status": "active",
+      "status": "released",
       "title": "感恩号·大篷车",
-      "updated_at": "2026-10-31T06:59:26.559901+00:00"
+      "updated_at": "2026-11-07T07:09:31.677960+00:00"
     },
     {
       "countries": [
@@ -2398,15 +2418,25 @@
         "动画",
         "奇幻"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-07T07:09:31.677960+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-10",
       "missing_runs": 1,
       "release_date": "2026-11-06",
       "source_id": "23774856",
       "source_url": "https://movie.douban.com/subject/23774856/",
-      "status": "active",
+      "status": "released",
       "title": "戴帽子的猫",
-      "updated_at": "2026-10-10T07:06:07.149082+00:00"
+      "updated_at": "2026-11-07T07:09:31.677960+00:00"
     },
     {
       "countries": [
@@ -2438,6 +2468,15 @@
               "to": "active"
             }
           }
+        },
+        {
+          "at": "2026-11-07T07:09:31.677960+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
         }
       ],
       "last_seen_at": "2026-10-30",
@@ -2445,9 +2484,9 @@
       "release_date": "2026-11-06",
       "source_id": "37659649",
       "source_url": "https://movie.douban.com/subject/37659649/",
-      "status": "active",
+      "status": "released",
       "title": "手捧繁星",
-      "updated_at": "2026-10-30T07:04:50.220462+00:00"
+      "updated_at": "2026-11-07T07:09:31.677960+00:00"
     },
     {
       "countries": [
@@ -2459,15 +2498,25 @@
         "纪录片",
         "运动"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-07T07:09:31.677960+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-22",
       "missing_runs": 1,
       "release_date": "2026-11-06",
       "source_id": "37822528",
       "source_url": "https://movie.douban.com/subject/37822528/",
-      "status": "active",
+      "status": "released",
       "title": "珠穆朗玛：云中彼岸",
-      "updated_at": "2026-10-22T06:06:56.355548+00:00"
+      "updated_at": "2026-11-07T07:09:31.677960+00:00"
     },
     {
       "countries": [
@@ -2477,15 +2526,25 @@
       "genres": [
         "剧情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-07T07:09:31.677960+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-17",
       "missing_runs": 2,
       "release_date": "2026-11-06",
       "source_id": "35299923",
       "source_url": "https://movie.douban.com/subject/35299923/",
-      "status": "active",
+      "status": "released",
       "title": "白衣逆行者",
-      "updated_at": "2026-10-17T05:35:46.370715+00:00"
+      "updated_at": "2026-11-07T07:09:31.677960+00:00"
     },
     {
       "countries": [
@@ -2495,15 +2554,25 @@
       "genres": [
         "喜剧"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-07T07:09:31.677960+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-11-04",
       "missing_runs": 1,
       "release_date": "2026-11-06",
       "source_id": "37096668",
       "source_url": "https://movie.douban.com/subject/37096668/",
-      "status": "active",
+      "status": "released",
       "title": "麻将女王 麻雀女王追男仔",
-      "updated_at": "2026-11-04T07:29:18.821678+00:00"
+      "updated_at": "2026-11-07T07:09:31.677960+00:00"
     },
     {
       "countries": [
@@ -2515,7 +2584,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-10-20",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-07",
       "source_id": "36083358",
       "source_url": "https://movie.douban.com/subject/36083358/",
@@ -2534,7 +2603,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-10-28",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-07",
       "source_id": "37295792",
       "source_url": "https://movie.douban.com/subject/37295792/",
@@ -2552,7 +2621,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-10-20",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-07",
       "source_id": "36424371",
       "source_url": "https://movie.douban.com/subject/36424371/",
