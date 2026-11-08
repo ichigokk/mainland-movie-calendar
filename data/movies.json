@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T07:09:31.677960+00:00",
+  "generated_at": "2026-11-08T07:18:09.608700+00:00",
   "movies": [
     {
       "countries": [
@@ -2582,15 +2582,25 @@
       "genres": [
         "纪录片"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-08T07:18:09.608700+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-20",
       "missing_runs": 1,
       "release_date": "2026-11-07",
       "source_id": "36083358",
       "source_url": "https://movie.douban.com/subject/36083358/",
-      "status": "active",
+      "status": "released",
       "title": "乡归",
-      "updated_at": "2026-10-20T06:00:07.329456+00:00"
+      "updated_at": "2026-11-08T07:18:09.608700+00:00"
     },
     {
       "countries": [
@@ -2601,15 +2611,25 @@
         "犯罪",
         "悬疑"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-08T07:18:09.608700+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-28",
       "missing_runs": 1,
       "release_date": "2026-11-07",
       "source_id": "37295792",
       "source_url": "https://movie.douban.com/subject/37295792/",
-      "status": "active",
+      "status": "released",
       "title": "心迷宫之三重罪",
-      "updated_at": "2026-10-28T06:51:11.459558+00:00"
+      "updated_at": "2026-11-08T07:18:09.608700+00:00"
     },
     {
       "countries": [
@@ -2619,15 +2639,25 @@
       "genres": [
         "剧情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-08T07:18:09.608700+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-20",
       "missing_runs": 1,
       "release_date": "2026-11-07",
       "source_id": "36424371",
       "source_url": "https://movie.douban.com/subject/36424371/",
-      "status": "active",
+      "status": "released",
       "title": "我们仅有一次的人生",
-      "updated_at": "2026-10-20T06:00:07.329456+00:00"
+      "updated_at": "2026-11-08T07:18:09.608700+00:00"
     },
     {
       "countries": [
@@ -2640,7 +2670,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-10-29",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-08",
       "source_id": "36171702",
       "source_url": "https://movie.douban.com/subject/36171702/",
