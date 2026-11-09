@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T07:18:09.608700+00:00",
+  "generated_at": "2026-11-09T07:57:53.838734+00:00",
   "movies": [
     {
       "countries": [
@@ -397,35 +397,6 @@
       "status": "released",
       "title": "不想失去你",
       "updated_at": "2026-08-20T02:30:42.454164+00:00"
-    },
-    {
-      "countries": [
-        "中国大陆"
-      ],
-      "first_seen_at": "2026-07-28",
-      "genres": [
-        "剧情",
-        "爱情"
-      ],
-      "history": [
-        {
-          "at": "2026-08-14T03:30:09.221994+00:00",
-          "changes": {
-            "status": {
-              "from": "active",
-              "to": "withdrawn"
-            }
-          }
-        }
-      ],
-      "last_seen_at": "2026-07-28",
-      "missing_runs": 8,
-      "release_date": "2026-08-19",
-      "source_id": "37452950",
-      "source_url": "https://movie.douban.com/subject/37452950/",
-      "status": "withdrawn",
-      "title": "偷偷藏不住",
-      "updated_at": "2026-08-14T03:30:09.221994+00:00"
     },
     {
       "countries": [
@@ -2668,15 +2639,25 @@
         "剧情",
         "悬疑"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-09T07:57:53.838734+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-29",
       "missing_runs": 1,
       "release_date": "2026-11-08",
       "source_id": "36171702",
       "source_url": "https://movie.douban.com/subject/36171702/",
-      "status": "active",
+      "status": "released",
       "title": "清气满乾坤",
-      "updated_at": "2026-10-29T07:03:40.173479+00:00"
+      "updated_at": "2026-11-09T07:57:53.838734+00:00"
     },
     {
       "countries": [
@@ -2750,6 +2731,26 @@
       "status": "active",
       "title": "向阳青春",
       "updated_at": "2026-11-01T07:30:56.303143+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-11-09",
+      "genres": [
+        "剧情",
+        "喜剧",
+        "犯罪"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-09",
+      "missing_runs": 0,
+      "release_date": "2026-11-14",
+      "source_id": "37409137",
+      "source_url": "https://movie.douban.com/subject/37409137/",
+      "status": "active",
+      "title": "我没错！",
+      "updated_at": "2026-11-09T07:57:53.838734+00:00"
     },
     {
       "countries": [
@@ -2893,6 +2894,48 @@
       "status": "active",
       "title": "时间里的爱人",
       "updated_at": "2026-10-23T06:02:13.874425+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-07-28",
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "history": [
+        {
+          "at": "2026-08-14T03:30:09.221994+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "withdrawn"
+            }
+          }
+        },
+        {
+          "at": "2026-11-09T07:57:53.838734+00:00",
+          "changes": {
+            "release_date": {
+              "from": "2026-08-19",
+              "to": "2026-12-12"
+            },
+            "status": {
+              "from": "withdrawn",
+              "to": "active"
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-11-09",
+      "missing_runs": 0,
+      "release_date": "2026-12-12",
+      "source_id": "37452950",
+      "source_url": "https://movie.douban.com/subject/37452950/",
+      "status": "active",
+      "title": "偷偷藏不住",
+      "updated_at": "2026-11-09T07:57:53.838734+00:00"
     },
     {
       "countries": [
