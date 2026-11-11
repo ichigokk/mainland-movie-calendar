@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T08:24:47.419822+00:00",
+  "generated_at": "2026-11-11T07:44:15.891668+00:00",
   "movies": [
     {
       "countries": [
@@ -2667,15 +2667,25 @@
       "genres": [
         "纪录片"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-11T07:44:15.891668+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-11-02",
       "missing_runs": 1,
       "release_date": "2026-11-10",
       "source_id": "36154923",
       "source_url": "https://movie.douban.com/subject/36154923/",
-      "status": "active",
+      "status": "released",
       "title": "爷爷奶奶那些事",
-      "updated_at": "2026-11-02T07:40:23.011658+00:00"
+      "updated_at": "2026-11-11T07:44:15.891668+00:00"
     },
     {
       "countries": [
@@ -2855,6 +2865,25 @@
       "status": "active",
       "title": "试探",
       "updated_at": "2026-10-31T06:59:26.559901+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-11-11",
+      "genres": [
+        "剧情",
+        "家庭"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-11",
+      "missing_runs": 0,
+      "release_date": "2026-11-27",
+      "source_id": "33412900",
+      "source_url": "https://movie.douban.com/subject/33412900/",
+      "status": "active",
+      "title": "二十四味",
+      "updated_at": "2026-11-11T07:44:15.891668+00:00"
     },
     {
       "countries": [
