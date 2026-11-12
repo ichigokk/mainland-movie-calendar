@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T07:44:15.891668+00:00",
+  "generated_at": "2026-11-12T08:18:40.736251+00:00",
   "movies": [
     {
       "countries": [
@@ -2764,6 +2764,24 @@
     },
     {
       "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-11-12",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-12",
+      "missing_runs": 0,
+      "release_date": "2026-11-17",
+      "source_id": "37150166",
+      "source_url": "https://movie.douban.com/subject/37150166/",
+      "status": "active",
+      "title": "琴弓师",
+      "updated_at": "2026-11-12T08:18:40.736251+00:00"
+    },
+    {
+      "countries": [
         "中国台湾",
         "意大利"
       ],
@@ -2820,6 +2838,26 @@
       "status": "active",
       "title": "霹雳英雄：素还真 素還真",
       "updated_at": "2026-10-30T07:04:50.220462+00:00"
+    },
+    {
+      "countries": [
+        "美国"
+      ],
+      "first_seen_at": "2026-11-12",
+      "genres": [
+        "动作",
+        "科幻",
+        "冒险"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-12",
+      "missing_runs": 0,
+      "release_date": "2026-11-20",
+      "source_id": "36915988",
+      "source_url": "https://movie.douban.com/subject/36915988/",
+      "status": "active",
+      "title": "饥饿游戏：收获日出",
+      "updated_at": "2026-11-12T08:18:40.736251+00:00"
     },
     {
       "countries": [
@@ -2943,6 +2981,24 @@
       "status": "active",
       "title": "时间里的爱人",
       "updated_at": "2026-10-23T06:02:13.874425+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-11-12",
+      "genres": [
+        "戏曲"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-12",
+      "missing_runs": 0,
+      "release_date": "2026-12-01",
+      "source_id": "37505711",
+      "source_url": "https://movie.douban.com/subject/37505711/",
+      "status": "active",
+      "title": "顾炎武",
+      "updated_at": "2026-11-12T08:18:40.736251+00:00"
     },
     {
       "countries": [
