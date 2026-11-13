@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T08:18:40.736251+00:00",
+  "generated_at": "2026-11-13T07:56:23.188108+00:00",
   "movies": [
     {
       "countries": [
@@ -2697,7 +2697,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-10-27",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-13",
       "source_id": "37388286",
       "source_url": "https://movie.douban.com/subject/37388286/",
@@ -2716,7 +2716,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-11-02",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-13",
       "source_id": "1292001",
       "source_url": "https://movie.douban.com/subject/1292001/",
@@ -2999,6 +2999,25 @@
       "status": "active",
       "title": "顾炎武",
       "updated_at": "2026-11-12T08:18:40.736251+00:00"
+    },
+    {
+      "countries": [
+        "中国台湾"
+      ],
+      "first_seen_at": "2026-11-13",
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-13",
+      "missing_runs": 0,
+      "release_date": "2026-12-05",
+      "source_id": "36494168",
+      "source_url": "https://movie.douban.com/subject/36494168/",
+      "status": "active",
+      "title": "喜欢了你一整个青春 夜校女生",
+      "updated_at": "2026-11-13T07:56:23.188108+00:00"
     },
     {
       "countries": [
