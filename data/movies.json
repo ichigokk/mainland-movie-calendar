@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T07:56:23.188108+00:00",
+  "generated_at": "2026-11-14T07:36:12.104845+00:00",
   "movies": [
     {
       "countries": [
@@ -2695,15 +2695,25 @@
       "genres": [
         "纪录片"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-14T07:36:12.104845+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-27",
       "missing_runs": 1,
       "release_date": "2026-11-13",
       "source_id": "37388286",
       "source_url": "https://movie.douban.com/subject/37388286/",
-      "status": "active",
+      "status": "released",
       "title": "夫妻一场",
-      "updated_at": "2026-10-27T06:15:44.572773+00:00"
+      "updated_at": "2026-11-14T07:36:12.104845+00:00"
     },
     {
       "countries": [
@@ -2714,15 +2724,25 @@
         "剧情",
         "音乐"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-14T07:36:12.104845+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-11-02",
       "missing_runs": 1,
       "release_date": "2026-11-13",
       "source_id": "1292001",
       "source_url": "https://movie.douban.com/subject/1292001/",
-      "status": "active",
+      "status": "released",
       "title": "海上钢琴师",
-      "updated_at": "2026-11-02T07:40:23.011658+00:00"
+      "updated_at": "2026-11-14T07:36:12.104845+00:00"
     },
     {
       "countries": [
@@ -2734,7 +2754,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-11-01",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-14",
       "source_id": "39015682",
       "source_url": "https://movie.douban.com/subject/39015682/",
@@ -2754,7 +2774,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-11-09",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-14",
       "source_id": "37409137",
       "source_url": "https://movie.douban.com/subject/37409137/",
