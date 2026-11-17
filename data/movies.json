@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T07:58:14.606356+00:00",
+  "generated_at": "2026-11-17T09:12:05.542174+00:00",
   "movies": [
     {
       "countries": [
@@ -2812,7 +2812,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-11-12",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-17",
       "source_id": "37150166",
       "source_url": "https://movie.douban.com/subject/37150166/",
@@ -2967,6 +2967,24 @@
       "countries": [
         "中国大陆"
       ],
+      "first_seen_at": "2026-11-17",
+      "genres": [
+        "爱情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-17",
+      "missing_runs": 0,
+      "release_date": "2026-11-27",
+      "source_id": "27661975",
+      "source_url": "https://movie.douban.com/subject/27661975/",
+      "status": "active",
+      "title": "像风一样自由",
+      "updated_at": "2026-11-17T09:12:05.542174+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
       "first_seen_at": "2026-11-06",
       "genres": [
         "剧情",
@@ -3001,6 +3019,26 @@
       "status": "active",
       "title": "沙丘",
       "updated_at": "2026-11-16T07:58:14.606356+00:00"
+    },
+    {
+      "countries": [
+        "美国"
+      ],
+      "first_seen_at": "2026-11-17",
+      "genres": [
+        "动作",
+        "奇幻",
+        "惊悚"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-17",
+      "missing_runs": 0,
+      "release_date": "2026-11-27",
+      "source_id": "37154591",
+      "source_url": "https://movie.douban.com/subject/37154591/",
+      "status": "active",
+      "title": "泥面人",
+      "updated_at": "2026-11-17T09:12:05.542174+00:00"
     },
     {
       "countries": [
@@ -3161,6 +3199,24 @@
       "status": "active",
       "title": "复仇者联盟5",
       "updated_at": "2026-10-12T07:20:41.226171+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-11-17",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-17",
+      "missing_runs": 0,
+      "release_date": "2026-12-18",
+      "source_id": "37365832",
+      "source_url": "https://movie.douban.com/subject/37365832/",
+      "status": "active",
+      "title": "师生",
+      "updated_at": "2026-11-17T09:12:05.542174+00:00"
     },
     {
       "countries": [
