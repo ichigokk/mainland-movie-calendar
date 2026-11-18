@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:12:05.542174+00:00",
+  "generated_at": "2026-11-18T08:31:51.352296+00:00",
   "movies": [
     {
       "countries": [
@@ -2810,15 +2810,25 @@
       "genres": [
         "剧情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-18T08:31:51.352296+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-11-12",
       "missing_runs": 1,
       "release_date": "2026-11-17",
       "source_id": "37150166",
       "source_url": "https://movie.douban.com/subject/37150166/",
-      "status": "active",
+      "status": "released",
       "title": "琴弓师",
-      "updated_at": "2026-11-12T08:18:40.736251+00:00"
+      "updated_at": "2026-11-18T08:31:51.352296+00:00"
     },
     {
       "countries": [
@@ -2980,6 +2990,26 @@
       "status": "active",
       "title": "像风一样自由",
       "updated_at": "2026-11-17T09:12:05.542174+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-11-18",
+      "genres": [
+        "爱情",
+        "科幻",
+        "悬疑"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-18",
+      "missing_runs": 0,
+      "release_date": "2026-11-27",
+      "source_id": "36098322",
+      "source_url": "https://movie.douban.com/subject/36098322/",
+      "status": "active",
+      "title": "循环街区",
+      "updated_at": "2026-11-18T08:31:51.352296+00:00"
     },
     {
       "countries": [
