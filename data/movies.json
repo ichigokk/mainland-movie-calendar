@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:31:46.853726+00:00",
+  "generated_at": "2026-11-21T08:15:57.864367+00:00",
   "movies": [
     {
       "countries": [
@@ -2869,15 +2869,25 @@
         "喜剧",
         "家庭"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-21T08:15:57.864367+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-11-10",
       "missing_runs": 1,
       "release_date": "2026-11-20",
       "source_id": "39031675",
       "source_url": "https://movie.douban.com/subject/39031675/",
-      "status": "active",
+      "status": "released",
       "title": "金哲",
-      "updated_at": "2026-11-10T08:24:47.419822+00:00"
+      "updated_at": "2026-11-21T08:15:57.864367+00:00"
     },
     {
       "countries": [
@@ -2889,15 +2899,25 @@
         "武侠",
         "古装"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-21T08:15:57.864367+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-30",
       "missing_runs": 1,
       "release_date": "2026-11-20",
       "source_id": "35622269",
       "source_url": "https://movie.douban.com/subject/35622269/",
-      "status": "active",
+      "status": "released",
       "title": "霹雳英雄：素还真 素還真",
-      "updated_at": "2026-10-30T07:04:50.220462+00:00"
+      "updated_at": "2026-11-21T08:15:57.864367+00:00"
     },
     {
       "countries": [
@@ -2909,15 +2929,25 @@
         "科幻",
         "冒险"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-21T08:15:57.864367+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-11-12",
       "missing_runs": 1,
       "release_date": "2026-11-20",
       "source_id": "36915988",
       "source_url": "https://movie.douban.com/subject/36915988/",
-      "status": "active",
+      "status": "released",
       "title": "饥饿游戏：收获日出",
-      "updated_at": "2026-11-12T08:18:40.736251+00:00"
+      "updated_at": "2026-11-21T08:15:57.864367+00:00"
     },
     {
       "countries": [
@@ -2956,7 +2986,7 @@
         }
       ],
       "last_seen_at": "2026-10-31",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-21",
       "source_id": "35068655",
       "source_url": "https://movie.douban.com/subject/35068655/",
@@ -3042,24 +3072,6 @@
     },
     {
       "countries": [
-        "中国大陆"
-      ],
-      "first_seen_at": "2026-11-20",
-      "genres": [
-        "剧情"
-      ],
-      "history": [],
-      "last_seen_at": "2026-11-20",
-      "missing_runs": 0,
-      "release_date": "2026-11-27",
-      "source_id": "37028707",
-      "source_url": "https://movie.douban.com/subject/37028707/",
-      "status": "active",
-      "title": "指尖谋杀",
-      "updated_at": "2026-11-20T08:31:46.853726+00:00"
-    },
-    {
-      "countries": [
         "美国"
       ],
       "first_seen_at": "2026-11-16",
@@ -3129,15 +3141,53 @@
         "动作",
         "犯罪"
       ],
-      "history": [],
-      "last_seen_at": "2026-11-20",
+      "history": [
+        {
+          "at": "2026-11-21T08:15:57.864367+00:00",
+          "changes": {
+            "title": {
+              "from": "七犬特攻：沙漠惊天 7",
+              "to": "七犬特攻·沙漠惊天 7"
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-11-21",
       "missing_runs": 0,
       "release_date": "2026-11-28",
       "source_id": "37247440",
       "source_url": "https://movie.douban.com/subject/37247440/",
       "status": "active",
-      "title": "七犬特攻：沙漠惊天 7",
-      "updated_at": "2026-11-20T08:31:46.853726+00:00"
+      "title": "七犬特攻·沙漠惊天 7",
+      "updated_at": "2026-11-21T08:15:57.864367+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-11-20",
+      "genres": [
+        "剧情"
+      ],
+      "history": [
+        {
+          "at": "2026-11-21T08:15:57.864367+00:00",
+          "changes": {
+            "release_date": {
+              "from": "2026-11-27",
+              "to": "2026-11-28"
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-11-21",
+      "missing_runs": 0,
+      "release_date": "2026-11-28",
+      "source_id": "37028707",
+      "source_url": "https://movie.douban.com/subject/37028707/",
+      "status": "active",
+      "title": "指尖谋杀",
+      "updated_at": "2026-11-21T08:15:57.864367+00:00"
     },
     {
       "countries": [
