@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T07:58:52.133431+00:00",
+  "generated_at": "2026-11-23T09:02:57.787311+00:00",
   "movies": [
     {
       "countries": [
@@ -3193,6 +3193,26 @@
       "countries": [
         "中国大陆"
       ],
+      "first_seen_at": "2026-11-23",
+      "genres": [
+        "剧情",
+        "喜剧",
+        "历史"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-23",
+      "missing_runs": 0,
+      "release_date": "2026-11-28",
+      "source_id": "36754344",
+      "source_url": "https://movie.douban.com/subject/36754344/",
+      "status": "active",
+      "title": "乌龙镇",
+      "updated_at": "2026-11-23T09:02:57.787311+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
       "first_seen_at": "2026-11-22",
       "genres": [
         "纪录片"
@@ -3327,6 +3347,26 @@
       "status": "active",
       "title": "喜欢了你一整个青春 夜校女生",
       "updated_at": "2026-11-13T07:56:23.188108+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-11-23",
+      "genres": [
+        "动画",
+        "奇幻",
+        "冒险"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-23",
+      "missing_runs": 0,
+      "release_date": "2026-12-05",
+      "source_id": "35496649",
+      "source_url": "https://movie.douban.com/subject/35496649/",
+      "status": "active",
+      "title": "西游记之真假美猴王",
+      "updated_at": "2026-11-23T09:02:57.787311+00:00"
     },
     {
       "countries": [
