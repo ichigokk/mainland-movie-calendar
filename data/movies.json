@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T09:02:57.787311+00:00",
+  "generated_at": "2026-11-24T10:54:33.882999+00:00",
   "movies": [
     {
       "countries": [
@@ -3105,19 +3105,37 @@
       ],
       "first_seen_at": "2026-11-17",
       "genres": [
-        "动作",
-        "奇幻",
+        "科幻",
+        "犯罪",
         "惊悚"
       ],
-      "history": [],
-      "last_seen_at": "2026-11-17",
+      "history": [
+        {
+          "at": "2026-11-24T10:54:33.882999+00:00",
+          "changes": {
+            "genres": {
+              "from": [
+                "动作",
+                "奇幻",
+                "惊悚"
+              ],
+              "to": [
+                "科幻",
+                "犯罪",
+                "惊悚"
+              ]
+            }
+          }
+        }
+      ],
+      "last_seen_at": "2026-11-24",
       "missing_runs": 0,
       "release_date": "2026-11-27",
       "source_id": "37154591",
       "source_url": "https://movie.douban.com/subject/37154591/",
       "status": "active",
       "title": "泥面人",
-      "updated_at": "2026-11-17T09:12:05.542174+00:00"
+      "updated_at": "2026-11-24T10:54:33.882999+00:00"
     },
     {
       "countries": [
@@ -3328,6 +3346,26 @@
       "status": "active",
       "title": "沙丘2",
       "updated_at": "2026-11-16T07:58:14.606356+00:00"
+    },
+    {
+      "countries": [
+        "美国",
+        "英国"
+      ],
+      "first_seen_at": "2026-11-24",
+      "genres": [
+        "惊悚",
+        "恐怖"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-24",
+      "missing_runs": 0,
+      "release_date": "2026-12-04",
+      "source_id": "36886420",
+      "source_url": "https://movie.douban.com/subject/36886420/",
+      "status": "active",
+      "title": "蛛楼",
+      "updated_at": "2026-11-24T10:54:33.882999+00:00"
     },
     {
       "countries": [
