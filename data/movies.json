@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:50:51.688680+00:00",
+  "generated_at": "2026-11-26T09:30:54.536905+00:00",
   "movies": [
     {
       "countries": [
@@ -3328,6 +3328,25 @@
     },
     {
       "countries": [
+        "法国"
+      ],
+      "first_seen_at": "2026-11-26",
+      "genres": [
+        "剧情",
+        "历史"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-26",
+      "missing_runs": 0,
+      "release_date": "2026-12-04",
+      "source_id": "36778103",
+      "source_url": "https://movie.douban.com/subject/36778103/",
+      "status": "active",
+      "title": "悲惨世界",
+      "updated_at": "2026-11-26T09:30:54.536905+00:00"
+    },
+    {
+      "countries": [
         "美国",
         "加拿大"
       ],
@@ -3423,6 +3442,27 @@
       "status": "active",
       "title": "火拼",
       "updated_at": "2026-11-25T09:50:51.688680+00:00"
+    },
+    {
+      "countries": [
+        "美国",
+        "英国"
+      ],
+      "first_seen_at": "2026-11-26",
+      "genres": [
+        "剧情",
+        "爱情",
+        "奇幻"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-26",
+      "missing_runs": 0,
+      "release_date": "2026-12-05",
+      "source_id": "36618556",
+      "source_url": "https://movie.douban.com/subject/36618556/",
+      "status": "active",
+      "title": "编个丈夫",
+      "updated_at": "2026-11-26T09:30:54.536905+00:00"
     },
     {
       "countries": [
@@ -3621,6 +3661,24 @@
       "status": "active",
       "title": "狼牙行动",
       "updated_at": "2026-09-25T06:09:28.533943+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-11-26",
+      "genres": [
+        "剧情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-26",
+      "missing_runs": 0,
+      "release_date": "2026-12-31",
+      "source_id": "37435646",
+      "source_url": "https://movie.douban.com/subject/37435646/",
+      "status": "active",
+      "title": "花谢花又开",
+      "updated_at": "2026-11-26T09:30:54.536905+00:00"
     },
     {
       "countries": [
