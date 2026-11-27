@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:30:54.536905+00:00",
+  "generated_at": "2026-11-27T09:40:33.883553+00:00",
   "movies": [
     {
       "countries": [
@@ -3014,7 +3014,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-11-11",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-27",
       "source_id": "33412900",
       "source_url": "https://movie.douban.com/subject/33412900/",
@@ -3032,7 +3032,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-11-17",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-27",
       "source_id": "27661975",
       "source_url": "https://movie.douban.com/subject/27661975/",
@@ -3052,7 +3052,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-11-18",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-27",
       "source_id": "36098322",
       "source_url": "https://movie.douban.com/subject/36098322/",
@@ -3071,7 +3071,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-11-06",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-27",
       "source_id": "27102569",
       "source_url": "https://movie.douban.com/subject/27102569/",
@@ -3091,7 +3091,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-11-16",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-27",
       "source_id": "3001114",
       "source_url": "https://movie.douban.com/subject/3001114/",
@@ -3129,7 +3129,7 @@
         }
       ],
       "last_seen_at": "2026-11-24",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-27",
       "source_id": "37154591",
       "source_url": "https://movie.douban.com/subject/37154591/",
@@ -3149,7 +3149,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-10-30",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-27",
       "source_id": "37503053",
       "source_url": "https://movie.douban.com/subject/37503053/",
@@ -3365,6 +3365,26 @@
       "status": "active",
       "title": "沙丘2",
       "updated_at": "2026-11-16T07:58:14.606356+00:00"
+    },
+    {
+      "countries": [
+        "美国"
+      ],
+      "first_seen_at": "2026-11-27",
+      "genres": [
+        "剧情",
+        "犯罪",
+        "惊悚"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-27",
+      "missing_runs": 0,
+      "release_date": "2026-12-04",
+      "source_id": "36963105",
+      "source_url": "https://movie.douban.com/subject/36963105/",
+      "status": "active",
+      "title": "目击者约瑟芬",
+      "updated_at": "2026-11-27T09:40:33.883553+00:00"
     },
     {
       "countries": [
