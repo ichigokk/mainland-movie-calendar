@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:40:33.883553+00:00",
+  "generated_at": "2026-11-28T08:54:18.183268+00:00",
   "movies": [
     {
       "countries": [
@@ -3012,15 +3012,25 @@
         "剧情",
         "家庭"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-28T08:54:18.183268+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-11-11",
       "missing_runs": 1,
       "release_date": "2026-11-27",
       "source_id": "33412900",
       "source_url": "https://movie.douban.com/subject/33412900/",
-      "status": "active",
+      "status": "released",
       "title": "二十四味",
-      "updated_at": "2026-11-11T07:44:15.891668+00:00"
+      "updated_at": "2026-11-28T08:54:18.183268+00:00"
     },
     {
       "countries": [
@@ -3030,15 +3040,25 @@
       "genres": [
         "爱情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-28T08:54:18.183268+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-11-17",
       "missing_runs": 1,
       "release_date": "2026-11-27",
       "source_id": "27661975",
       "source_url": "https://movie.douban.com/subject/27661975/",
-      "status": "active",
+      "status": "released",
       "title": "像风一样自由",
-      "updated_at": "2026-11-17T09:12:05.542174+00:00"
+      "updated_at": "2026-11-28T08:54:18.183268+00:00"
     },
     {
       "countries": [
@@ -3050,15 +3070,25 @@
         "科幻",
         "悬疑"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-28T08:54:18.183268+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-11-18",
       "missing_runs": 1,
       "release_date": "2026-11-27",
       "source_id": "36098322",
       "source_url": "https://movie.douban.com/subject/36098322/",
-      "status": "active",
+      "status": "released",
       "title": "循环街区",
-      "updated_at": "2026-11-18T08:31:51.352296+00:00"
+      "updated_at": "2026-11-28T08:54:18.183268+00:00"
     },
     {
       "countries": [
@@ -3069,15 +3099,25 @@
         "剧情",
         "爱情"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-28T08:54:18.183268+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-11-06",
       "missing_runs": 1,
       "release_date": "2026-11-27",
       "source_id": "27102569",
       "source_url": "https://movie.douban.com/subject/27102569/",
-      "status": "active",
+      "status": "released",
       "title": "悲伤逆流成河",
-      "updated_at": "2026-11-06T07:54:59.168169+00:00"
+      "updated_at": "2026-11-28T08:54:18.183268+00:00"
     },
     {
       "countries": [
@@ -3089,15 +3129,25 @@
         "科幻",
         "冒险"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-28T08:54:18.183268+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-11-16",
       "missing_runs": 1,
       "release_date": "2026-11-27",
       "source_id": "3001114",
       "source_url": "https://movie.douban.com/subject/3001114/",
-      "status": "active",
+      "status": "released",
       "title": "沙丘",
-      "updated_at": "2026-11-16T07:58:14.606356+00:00"
+      "updated_at": "2026-11-28T08:54:18.183268+00:00"
     },
     {
       "countries": [
@@ -3126,6 +3176,15 @@
               ]
             }
           }
+        },
+        {
+          "at": "2026-11-28T08:54:18.183268+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
         }
       ],
       "last_seen_at": "2026-11-24",
@@ -3133,9 +3192,9 @@
       "release_date": "2026-11-27",
       "source_id": "37154591",
       "source_url": "https://movie.douban.com/subject/37154591/",
-      "status": "active",
+      "status": "released",
       "title": "泥面人",
-      "updated_at": "2026-11-24T10:54:33.882999+00:00"
+      "updated_at": "2026-11-28T08:54:18.183268+00:00"
     },
     {
       "countries": [
@@ -3147,15 +3206,25 @@
         "动画",
         "奇幻"
       ],
-      "history": [],
+      "history": [
+        {
+          "at": "2026-11-28T08:54:18.183268+00:00",
+          "changes": {
+            "status": {
+              "from": "active",
+              "to": "released"
+            }
+          }
+        }
+      ],
       "last_seen_at": "2026-10-30",
       "missing_runs": 1,
       "release_date": "2026-11-27",
       "source_id": "37503053",
       "source_url": "https://movie.douban.com/subject/37503053/",
-      "status": "active",
+      "status": "released",
       "title": "魔法秘境",
-      "updated_at": "2026-10-30T07:04:50.220462+00:00"
+      "updated_at": "2026-11-28T08:54:18.183268+00:00"
     },
     {
       "countries": [
@@ -3180,7 +3249,7 @@
         }
       ],
       "last_seen_at": "2026-11-21",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-28",
       "source_id": "37247440",
       "source_url": "https://movie.douban.com/subject/37247440/",
@@ -3199,7 +3268,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-11-22",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-28",
       "source_id": "36146246",
       "source_url": "https://movie.douban.com/subject/36146246/",
@@ -3219,7 +3288,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-11-23",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-28",
       "source_id": "36754344",
       "source_url": "https://movie.douban.com/subject/36754344/",
@@ -3237,7 +3306,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-11-22",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-28",
       "source_id": "36941224",
       "source_url": "https://movie.douban.com/subject/36941224/",
@@ -3280,7 +3349,7 @@
         }
       ],
       "last_seen_at": "2026-11-22",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-28",
       "source_id": "37028707",
       "source_url": "https://movie.douban.com/subject/37028707/",
@@ -3300,7 +3369,7 @@
       ],
       "history": [],
       "last_seen_at": "2026-10-23",
-      "missing_runs": 0,
+      "missing_runs": 1,
       "release_date": "2026-11-28",
       "source_id": "36313679",
       "source_url": "https://movie.douban.com/subject/36313679/",
@@ -3325,6 +3394,26 @@
       "status": "active",
       "title": "顾炎武",
       "updated_at": "2026-11-12T08:18:40.736251+00:00"
+    },
+    {
+      "countries": [
+        "中国大陆"
+      ],
+      "first_seen_at": "2026-11-28",
+      "genres": [
+        "剧情",
+        "喜剧",
+        "爱情"
+      ],
+      "history": [],
+      "last_seen_at": "2026-11-28",
+      "missing_runs": 0,
+      "release_date": "2026-12-04",
+      "source_id": "33384223",
+      "source_url": "https://movie.douban.com/subject/33384223/",
+      "status": "active",
+      "title": "余生有你",
+      "updated_at": "2026-11-28T08:54:18.183268+00:00"
     },
     {
       "countries": [
